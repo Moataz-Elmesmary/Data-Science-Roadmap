@@ -1,13 +1,30 @@
-# Self-Learning-Data-Science-Roadmap
-Self-Learning Data Science Roadmap for anyone interested in how to break into the field!
+# Data-Science-Roadmap
+Data Science Roadmap for anyone interested in how to break into the field!
 
-This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources (some paid) that I have found scattered across the internet.  These resources have been consolidated into a single repository to help build the mindset and skills required to learn about the field.  
+This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.
 
 ## Data Science vs Data Analytics vs Data Engineering - What's the Difference?
-These terms are wrongly used interchangably among people. There are distinct differences:
-* Data Science is a multidisciplinary field that focuses on looking at raw and structured data sets and providing potential actionable insights. The field of Data Science looks at ensuring we are asking the right questions as opposed to finding exact answers.  Data Scientist require skillsets that are centered on Computer Science, Mathematics, and Statistics.  Data Scientist use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling.  The tools Data Scientist use to apply these techniques include Python and R.
-* Data Analytics focuses on looking at existing data sets and creating solutions to capture data, process data, and finally organize data to draw actionable insights. The field of Data Analytics looks at finding general process, business, and engineering improvements we can make based on questions we don't know the answers to.  Data Analytics require skillsets that are centered on Statistics, Mathematics, and high level understanding of Computer Science.  Data Analytics involves data cleaning, data visualization, and simple modeling.  Common Data Analytic tools used include Microsoft Power Bi, Tableau, and SQL. 
-* Data Engineering focuses on creating the correct infrastructure and tools required to support the business.  Data Engineers look at what are the optimal ways to store and extract data and involves writing scripts and building data warehouses.  Data Engineering require skillsets that are centered on Software Engineering, Computer Science and high level Data Science.  The tools Data Engineers utilize are mainly Python, Java, Scala, Hadoop, and Spark.
+  ![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
+
+*These terms are wrongly used interchangably among people. There are distinct differences:*
+* **Data Science** is a multidisciplinary field that focuses on looking at raw and structured data sets and providing potential actionable insights. The field of Data Science looks at ensuring we are asking the right questions as opposed to finding exact answers.  Data Scientist require skillsets that are centered on Computer Science, Mathematics, and Statistics.  Data Scientist use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling.  The tools Data Scientist use to apply these techniques include Python and R.
+* **Data Analytics** focuses on looking at existing data sets and creating solutions to capture data, process data, and finally organize data to draw actionable insights. The field of Data Analytics looks at finding general process, business, and engineering improvements we can make based on questions we don't know the answers to.  Data Analytics require skillsets that are centered on Statistics, Mathematics, and high level understanding of Computer Science.  Data Analytics involves data cleaning, data visualization, and simple modeling.  Common Data Analytic tools used include Microsoft Power Bi, Tableau, and SQL. 
+* **Data Engineering** focuses on creating the correct infrastructure and tools required to support the business.  Data Engineers look at what are the optimal ways to store and extract data and involves writing scripts and building data warehouses.  Data Engineering require skillsets that are centered on Software Engineering, Computer Science and high level Data Science.  The tools Data Engineers utilize are mainly Python, Java, Scala, Hadoop, and Spark.
+
+## Prepare your workspace
+Most learning platforms have integrated code exercises where you don’t need to install anything locally. But to learn it right, you should have an IDE installed on your local machine. Suggestions will be a marketplace with many options and few improvements from one platform to another.
+
+### Tip 1: Just use one and stick to it
+
+[Anaconda](https://www.anaconda.com/products/distribution): It’s a tool kit that fulfills all your necessities in writing and running code. From Powershell prompt to Jupyter Notebook and PyCharm, even R Studio (if interested to try R)
+
+![a](https://user-images.githubusercontent.com/92026137/163717819-4689c927-6022-47da-b204-169693bfa397.png)
+
+
+[Atom](https://atom.io/packages/ide-python): A more advanced Python interface, highly recommended by experts.
+[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb): It’s like a Jupyter Notebook but in the cloud. You don’t need to install anything locally. All the important libraries are already installed. For example NumPy, Pandas, Matplotlib, and Sci-kit Learn
+PyCharm: PyCharm is another excellent IDE that enables you to integrate with libraries such as NumPy and Matplotlib, allowing you to work with array viewers and interactive plots.
+Thonny: Thonny is an IDE for teaching and learning programming. Thonny is equipped with a debugger, and supports code completion, and highlights syntax errors.
 
 ## Recommended Path to Follow
 In order to fully take advantage of this repository I suggest the following: 
