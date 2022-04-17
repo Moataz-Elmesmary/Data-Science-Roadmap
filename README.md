@@ -1,5 +1,8 @@
-# Data-Science-Roadmap
+# Data Science Roadmap
 Data Science Roadmap for anyone interested in how to break into the field!
+
+![qq](https://user-images.githubusercontent.com/92026137/163718912-efddc7ba-33f5-47fa-a2de-b0eb5b226e1d.jpg)
+
 
 This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.
 
@@ -14,17 +17,20 @@ This repository is intended to provide a free Self-Learning Roadmap to learn the
 ## Prepare your workspace
 Most learning platforms have integrated code exercises where you don’t need to install anything locally. But to learn it right, you should have an IDE installed on your local machine. Suggestions will be a marketplace with many options and few improvements from one platform to another.
 
-### Tip 1: Just use one and stick to it
-
+### Tip1: Use one and stick to it.
 [Anaconda](https://www.anaconda.com/products/distribution): It’s a tool kit that fulfills all your necessities in writing and running code. From Powershell prompt to Jupyter Notebook and PyCharm, even R Studio (if interested to try R)
 
 ![a](https://user-images.githubusercontent.com/92026137/163717819-4689c927-6022-47da-b204-169693bfa397.png)
 
 
-[Atom](https://atom.io/packages/ide-python): A more advanced Python interface, highly recommended by experts.
-[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb): It’s like a Jupyter Notebook but in the cloud. You don’t need to install anything locally. All the important libraries are already installed. For example NumPy, Pandas, Matplotlib, and Sci-kit Learn
-PyCharm: PyCharm is another excellent IDE that enables you to integrate with libraries such as NumPy and Matplotlib, allowing you to work with array viewers and interactive plots.
-Thonny: Thonny is an IDE for teaching and learning programming. Thonny is equipped with a debugger, and supports code completion, and highlights syntax errors.
+[Atom](https://atom.io/packages/ide-python): A more advanced Python interface, highly recommended by experts. <br />
+[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb): It’s like a Jupyter Notebook but in the cloud. You don’t need to install anything locally. All the important libraries are already installed. For example NumPy, Pandas, Matplotlib, and Sci-kit Learn <br />
+[PyCharm](https://www.jetbrains.com/): PyCharm is another excellent IDE that enables you to integrate with libraries such as NumPy and Matplotlib, allowing you to work with array viewers and interactive plots. <br />
+[Thonny](https://thonny.org/): Thonny is an IDE for teaching and learning programming. Thonny is equipped with a debugger, and supports code completion, and highlights syntax errors.
+
+### Tip 2: Focus on one course at least.
+
+### Tip 3: Don’t chase certifications
 
 ## Recommended Path to Follow
 In order to fully take advantage of this repository I suggest the following: 
