@@ -134,12 +134,18 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:video_camera: [PCA - Coursera](https://www.coursera.org/learn/pca-machine-learning)<br>
 
 
-2. ML<br>
+2. MachineLearning<br>
+         &emsp;&emsp;&emsp;:video_camera: [Coursera Free Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)<br>
+
+
 [IBM ML with Python](https://www.coursera.org/learn/machine-learning-with-python)<br>
 [Hands on ML book](https://drive.google.com/file/d/15J7YoyRcmwQE2mgW5yVs-MrPL3YtmuSz/view?usp=sharing&fbclid=IwAR1RVi90sfrggEaZnc1roXW9H8AGECyHcsQnZw22FORq-HSaP0VlBU5CAiM)<br>
 [ML Algorithms in Practice](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)<br>
 [ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
 [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
+
 3. Web Scraping&APIs<br>
 [course](https://learn.datacamp.com/courses/web-scraping-with-python)<br>
 [intro2](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>
