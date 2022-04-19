@@ -42,6 +42,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 ### &emsp; 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
 ### &emsp; 3. Advanced: where we learn more advanced Math, DL and Deployment.
 
+:bell: For Data Camp courses, github student pack gives 3 free months. Google how to get it.<br> <i>if you already used it, do not hesitate to contact us to have an account with free access.:hibiscus:<i/>
   
 ## Legend
 * :video_camera: Video Content
@@ -130,6 +131,8 @@ Note: it's already mentioned in the above probability course <br>
 :small_blue_diamond:Calculus<br>
          &emsp;&emsp;&emsp;:video_camera: [Multivariate Calculus - Coursera](https://www.coursera.org/learn/multivariate-calculus-machine-learning?fbclid=IwAR243aoz0jxs4iUn539pnjSQliXtr7Y5QAsvgeRTietZT_tkyoRU3b6Sq1o)<br>
          &emsp;&emsp;&emsp;:video_camera: [Essence of calculus - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)<br>
+:small_blue_diamond:PCA<br>
+         &emsp;&emsp;&emsp;:video_camera: [PCA - Coursera](https://www.coursera.org/learn/pca-machine-learning)<br>
 
 
 2. ML<br>
