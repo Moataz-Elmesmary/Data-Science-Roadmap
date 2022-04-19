@@ -47,7 +47,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 * :video_camera: Video Content
 * :closed_book: Online Article Content / Book
 
-<h2> :beginner: Beginner<h2/>
+<h1> :beginner: Beginner<h1/>
 
  1. Descriptive Stats. <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
@@ -73,31 +73,41 @@ Most learning platforms have integrated code exercises where you don’t need to
         &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
 5. Numpy<br>
-[Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
-[Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
 6. Scipy<br>
-[Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy)<br>
-[Docs](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)<br>
-
+        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Docs](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)<br>
 7. Data Cleaning: One of the **MOST** important skills that you need to master to become a good data scientist, you need to practice on many datasets to master it.<br>
-[Read this](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>
-[Course 1](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
-[Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)<br/>
-[Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)<br/>
-[Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
-[Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)<br>
+        &emsp;&emsp;&emsp;[Read this](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Course 1](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)<br/>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)<br/>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)<br>
 8. Data Visualization<br>
-[Course1](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)<br>
-[Course2](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
-[Course3](https://www.coursera.org/learn/understanding-visualization-data)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib?fbclid=IwAR1OrJSdZ2LVD_c1o3d-_1I7Nhq8OZ3pzTu4010E_XWEmMc0KYsTosz8CIU)
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Course1: Intro to Data Visualization with Seaborn](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Course2: Intermediate Data Visualization with Seaborn
+](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Course3: Understanding and Visualizing with Python](https://www.coursera.org/learn/understanding-visualization-data)<br>
 
 9. EDA
-**Note: it's already mentioned in the above probability course <br>
-[Course1](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python) <br>
+Note: it's already mentioned in the above probability course <br>
+        &emsp;&emsp;&emsp;:video_camera: [DataCamp-EDA in Python](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python) <br>
+        &emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
+
 10. SQL and DB<br>
-[Intro](https://learn.datacamp.com/courses/introduction-to-sql)<br>
-[DB](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
-11. Regex<br>
+         &emsp;&emsp;&emsp;:video_camera: [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM](https://www.coursera.org/learn/sql-data-science)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Arabric Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
+
+  11. Regex<br>
 [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
 12. Common tools<br>
 [Anaconda](https://learn.datacamp.com/courses/conda-essentials)<br>
