@@ -35,35 +35,43 @@ Most learning platforms have integrated code exercises where you don’t need to
 ### Tip :three: : Don’t chase certifications
 
 
-## Legend
-* :video_camera: Video Content
-* :closed_book: Online Article Content
   
 ## This track is divided into 3 phases :arrow_down:	:
 
- ### 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
- ### 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
- ### 3. Advanced: where we learn more advanced Math, DL and Deployment.
+### &emsp; 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
+### &emsp; 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
+### &emsp; 3. Advanced: where we learn more advanced Math, DL and Deployment.
 
+  
+## Legend
+* :video_camera: Video Content
+* :closed_book: Online Article Content / Book
 
-##:arrow_forward:	Beginner
+<h2> :beginner: Beginner<h2/>
 
  1. Descriptive Stats. <br>
-[course](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
-[book](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
+&emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
+&emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
+&emsp;&emsp;&emsp;:closed_book: Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
+&emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
+&emsp;&emsp;&emsp;:video_camera: [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)<br>
 2. Probability<br>
-[course](https://www.coursera.org/learn/probability-theory-statistics)<br>
-[book](https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing(https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing)**)<br>
-[playlist from khan academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
+&emsp;&emsp;&emsp;:video_camera: [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
+&emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
+&emsp;&emsp;&emsp;:closed_book: [Introduction to Probability](https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing(https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing)**)<br>
+
 3. Python<br>
-[basics](https://classroom.udacity.com/courses/ud1110)<br>
-[OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
-[more in OOP](https://www.futurelearn.com/courses/object-oriented-principles)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
+        &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Python Full Course - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)<br>
+        &emsp;&emsp;&emsp;[more in OOP](https://www.futurelearn.com/courses/object-oriented-principles)<br>
 4. Pandas<br>
-[Tutorial](https://www.kaggle.com/learn/pandas)<br>
-[Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
-[course1](https://learn.datacamp.com/courses/pandas-foundations)<br>
-[course2](https://learn.datacamp.com/courses/manipulating-dataframes-with-pandas)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/pandas)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
 5. Numpy<br>
 [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
 [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
