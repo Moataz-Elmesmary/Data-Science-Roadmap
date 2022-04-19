@@ -1,15 +1,14 @@
 ![qq](https://user-images.githubusercontent.com/92026137/163718912-efddc7ba-33f5-47fa-a2de-b0eb5b226e1d.jpg)
-# Data Science Roadmap
+<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:high_brightness: Data Science Roadmap :high_brightness:<h1/>
 Data Science Roadmap for anyone interested in how to break into the field!
 
+<h3><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.<i/><h3/>
 
+<h2>Data Science vs Data Analytics vs Data Engineering - What's the Difference?<h2/><br>
+  
+![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
 
-This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.
-
-## Data Science vs Data Analytics vs Data Engineering - What's the Difference?
-  ![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
-
-*These terms are wrongly used interchangably among people. There are distinct differences:*
+<h4><i>These terms are wrongly used interchangably among people. There are distinct differences:<i/><h4/>
 
 | :small_orange_diamond:	**Data Science**        | :small_orange_diamond:	**Data Analytics**           | :small_orange_diamond:	**Data Engineering**           |
 | ------------- | --------------------- | -------------------- |
@@ -48,7 +47,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 * :video_camera: Video Content
 * :closed_book: Online Article Content / Book
 
-<h1> :beginner: Beginner :beginner: <h1/>
+# :beginner: Beginner :beginner:
 
  1. Descriptive Stats. <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
@@ -88,7 +87,7 @@ Most learning platforms have integrated code exercises where you don’t need to
         &emsp;&emsp;&emsp;:closed_book: [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)<br/>
         &emsp;&emsp;&emsp;:closed_book: [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)<br>
-8. Data Visualization<br>
+8. Data Visualization :bar_chart:	<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib?fbclid=IwAR1OrJSdZ2LVD_c1o3d-_1I7Nhq8OZ3pzTu4010E_XWEmMc0KYsTosz8CIU) or<br>
         &emsp;&emsp;&emsp;:video_camera: [ Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) or<br>
         &emsp;&emsp;&emsp;:video_camera: [sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
@@ -118,10 +117,10 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;:video_camera: Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
   
-*At The end of Beginner phase apply all what you've learned on a project.*
+<h3><i>At The end of Beginner phase apply all what you've learned on a project.<i/><h3/>
 
-<h1> :beginner: Intermediate :beginner: <h1/>
-  
+# :beginner: Intermediate :beginner:
+
 1. Math for ML: consists of Linear Algebra, Calculus and PCA. <br>
 [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br><br>
 :small_blue_diamond:Linear Algebra<br>
