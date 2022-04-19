@@ -134,27 +134,26 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:video_camera: [PCA - Coursera](https://www.coursera.org/learn/pca-machine-learning)<br>
 
 
-2. MachineLearning<br>
+2. Machine Learning<br>
          &emsp;&emsp;&emsp;:video_camera: [Coursera Free Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)<br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
          &emsp;&emsp;&emsp;:video_camera: [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)<br>
+         &emsp;&emsp;&emsp;:video_camera: [IBM ML with Python](https://www.coursera.org/learn/machine-learning-with-python)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning From Scratch - YouTube (Python Engineer)](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Hands on ML book](https://drive.google.com/file/d/15J7YoyRcmwQE2mgW5yVs-MrPL3YtmuSz/view?usp=sharing&fbclid=IwAR1RVi90sfrggEaZnc1roXW9H8AGECyHcsQnZw22FORq-HSaP0VlBU5CAiM)<br>
+         &emsp;&emsp;&emsp;:video_camera: [ML Algorithms in Practice](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)<br>
+         &emsp;&emsp;&emsp;:video_camera: [ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
 
-
-[IBM ML with Python](https://www.coursera.org/learn/machine-learning-with-python)<br>
-[Hands on ML book](https://drive.google.com/file/d/15J7YoyRcmwQE2mgW5yVs-MrPL3YtmuSz/view?usp=sharing&fbclid=IwAR1RVi90sfrggEaZnc1roXW9H8AGECyHcsQnZw22FORq-HSaP0VlBU5CAiM)<br>
-[ML Algorithms in Practice](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)<br>
-[ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
-[Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
-
-3. Web Scraping&APIs<br>
-[course](https://learn.datacamp.com/courses/web-scraping-with-python)<br>
-[intro2](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>
-[Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)<br>
-[book for both topics](https://b-ok.africa/book/3515980/5d50aa)<br>
+3. Web Scraping/APIs<br>
+         &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/web-scraping-with-python)<br>
+         &emsp;&emsp;&emsp;:closed_book: [intro2](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Book for both topics](https://b-ok.africa/book/3515980/5d50aa)<br>
 APIs <br>
-[Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)<br>
-[Article](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>
-[Tutorial](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Article](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
 4. Stats.<br>
 [This stats. book](https://b-ok.africa/book/2737548/7659e9)<br>
 [Think Bayes](https://b-ok.africa/book/2737587/ab97d5)<br>
