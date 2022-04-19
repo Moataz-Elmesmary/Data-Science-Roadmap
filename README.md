@@ -47,7 +47,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 * :video_camera: Video Content
 * :closed_book: Online Article Content / Book
 
-<h1> :beginner: Beginner<h1/>
+<h1> :beginner: Beginner :beginner: <h1/>
 
  1. Descriptive Stats. <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
@@ -107,17 +107,18 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:video_camera: [Arabric Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)<br>
          &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
 
-  11. Regex<br>
-[Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
-12. Common tools<br>
-[Anaconda](https://learn.datacamp.com/courses/conda-essentials)<br>
-[Github](https://git-scm.com/book/en/v2)<br>
-[course](https://www.udacity.com/course/version-control-with-git--ud123)<br>
+  11. Python Regular Expression<br>
+        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
+12. Time Series Analysis<br>
+         &emsp;&emsp;&emsp;:video_camera: [Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
+         &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
+         &emsp;&emsp;&emsp;:video_camera: Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
+  
+*At The end of Beginner phase apply all what you've learned on a project.*
 
-At The end of Beginner phase apply all what you've learned on a project.
-
-## Intermediate.
-#### This level is a bit longer.
+<h1> :beginner: Intermediate :beginner: <h1/>
+  
 1. Math for ML: consists of Linear Algebra, Calculus and PCA. <br>
 [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>
 2. ML<br>
