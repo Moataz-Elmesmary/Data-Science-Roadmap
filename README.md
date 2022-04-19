@@ -155,11 +155,11 @@ APIs <br>
          &emsp;&emsp;&emsp;:closed_book: [Article](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
 4. Stats.<br>
-[This stats. book](https://b-ok.africa/book/2737548/7659e9)<br>
-[Think Bayes](https://b-ok.africa/book/2737587/ab97d5)<br>
+         &emsp;&emsp;&emsp;:closed_book: [This stats - Book](https://b-ok.africa/book/2737548/7659e9)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Think Bayes - Book](https://b-ok.africa/book/2737587/ab97d5)<br>
 5. Advanced SQL<br>
-[course](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
-[joins](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Intermediate data visulaization with seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
 
 6. Time Series Analysis<br>
 [Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
