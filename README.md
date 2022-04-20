@@ -1,5 +1,5 @@
 ![photo_2022-04-20_03-18-03](https://user-images.githubusercontent.com/92026137/164127639-38317783-8c5e-4b85-acf5-3d6bd6dbf9c0.jpg)
-<h1>&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2022 </h1>
+<h2>&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2022 </h2>
 
 ### Data Science Roadmap for anyone interested in how to break into the field!
 
@@ -48,7 +48,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 * :video_camera: Video Content
 * :closed_book: Online Article Content / Book
 ***
-# :beginner: Beginner :beginner:
+## :beginner: Beginner :beginner:
 
  1. Descriptive Stats. <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
@@ -123,7 +123,7 @@ Note: it's already mentioned in the above probability course <br>
 ***
 
 
-# :beginner: Intermediate :beginner:
+## :beginner: Intermediate :beginner:
 
 1. Math for ML: consists of Linear Algebra, Calculus and PCA. <br>
 [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br><br>
@@ -176,7 +176,7 @@ APIs <br>
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4><br>
   
 ***
-# :beginner: Advanced :beginner:
+## :beginner: Advanced :beginner:
 
 1. Deep Learning <br>
         &emsp;&emsp;&emsp;:video_camera: [Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)<br>
