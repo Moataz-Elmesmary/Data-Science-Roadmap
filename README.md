@@ -1,8 +1,9 @@
 ![photo_2022-04-20_03-18-03](https://user-images.githubusercontent.com/92026137/164127639-38317783-8c5e-4b85-acf5-3d6bd6dbf9c0.jpg)
-<h1>&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2022 <h1/>
-Data Science Roadmap for anyone interested in how to break into the field!
+<h1>&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2022 </h1>
 
-<h3><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.<i/><h3/>
+### Data Science Roadmap for anyone interested in how to break into the field!
+
+<h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.<i/></h4>
 
 <h2>Data Science vs Data Analytics vs Data Engineering - What's the Difference?<h2/><br>
   
