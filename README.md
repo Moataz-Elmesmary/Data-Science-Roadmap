@@ -1,5 +1,5 @@
 ![photo_2022-04-20_03-18-03](https://user-images.githubusercontent.com/92026137/164127639-38317783-8c5e-4b85-acf5-3d6bd6dbf9c0.jpg)
-<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DATA SCIENCE ROADMAP  :pirate_flag: <h1/>
+<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DATA SCIENCE ROADMAP :pirate_flag: <h1/>
 Data Science Roadmap for anyone interested in how to break into the field!
 
 <h3><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.<i/><h3/>
@@ -223,5 +223,23 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 **Tasks and Projects will be added soon.** :hourglass_flowing_sand:	<br><br>
 ***
+
+:pushpin:	More Books 	<br>
+ &emsp;&emsp;:atom::atom::atom::atom::atom:<br>
+  &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>65</b> Free Important Books :fire:](https://techgrabyte.com/springer-released-65-machine-learning-data-science-books-free/?fbclid=IwAR3x9Mfd4FSrBo_y2F92cAghhZ8851qv3wQ1R_u87s70MZTDtKeG5yn7Hts)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Mathematics for Machine Learning ](https://mml-book.github.io/)<br>
+        &emsp;&emsp;&emsp;:closed_book: [An Introduction to Statistical Learning](https://www.statlearning.com/)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Understanding Machine Learning: From Theory to Algorithms ](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)<br>
+      
+
+:pushpin:	Data Analysis Recommendations.<br>
+        &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
+        &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
+        &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
+:pushpin:	Data Engineering Recommendations.<br>
+        &emsp;&emsp;&emsp; [Roadmap](https://www.educba.com/data-engineer-roadmap/)<br> 
+        &emsp;&emsp;&emsp; [Roadmap](https://github.com/datastacktv/data-engineer-roadmapCheckMe)<br> 
+
 ## Personal Contact :arrow_down_small:	
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary)  
