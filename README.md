@@ -3,13 +3,13 @@
 
 ### Data Science Roadmap for anyone interested in how to break into the field!
 
-<h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.<i/></h4>
+<h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.</i></h4>
 
 <h2>Data Science vs Data Analytics vs Data Engineering - What's the Difference?</h2><br>
   
 ![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
 
-<h4><i>These terms are wrongly used interchangably among people. There are distinct differences:<i/></h4>
+<h4><i>These terms are wrongly used interchangably among people. There are distinct differences:</i></h4>
 
 | :small_orange_diamond:	**Data Science**        | :small_orange_diamond:	**Data Analytics**           | :small_orange_diamond:	**Data Engineering**           |
 | ------------- | --------------------- | -------------------- |
@@ -42,7 +42,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 #### &emsp; 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
 #### &emsp; 3. Advanced: where we learn more advanced Math, DL and Deployment.
 
-:bell: For Data Camp courses, github student pack gives 3 free months. Google how to get it.<br> <i>if you already used it, do not hesitate to contact us to have an account with free access.:hibiscus:<i/>
+:bell: For Data Camp courses, github student pack gives 3 free months. Google how to get it.<br> <i>if you already used it, do not hesitate to contact us to have an account with free access.:hibiscus:</i>
   
 ## Legend
 * :video_camera: Video Content
@@ -118,8 +118,11 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;:video_camera: Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
   
-<h3><i>At The end of Beginner phase apply all what you've learned on a project.<i/></h3>
+<h4><i>At The end of Beginner phase apply all what you've learned on a project.</i></h4><br>
+
 ***
+
+
 # :beginner: Intermediate :beginner:
 
 1. Math for ML: consists of Linear Algebra, Calculus and PCA. <br>
