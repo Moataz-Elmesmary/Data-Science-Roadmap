@@ -196,7 +196,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 **3. Advanced Data Science**<br>
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
-4. NLP <br>
+**4. NLP** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 
@@ -215,8 +215,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:closed_book: [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
         &emsp;&emsp;&emsp;:video_camera: [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
         &emsp;&emsp;&emsp;:video_camera: [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
-        &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)
-        &emsp;&emsp;&emsp; <h5> if you`re intersted in more deployment methods, search for (<u>FastAPI</u> - <u>Heroku</u> - <u>chitra</u>)</h5><br>
+        &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
+        &emsp;&emsp;&emsp;if you`re intersted in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
 
 **9. Probabilistic Graphical Models** <br>       
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
