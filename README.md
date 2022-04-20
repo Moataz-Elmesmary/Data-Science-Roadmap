@@ -173,7 +173,7 @@ APIs <br>
         &emsp;&emsp;&emsp;:closed_book: [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 
-<h4><i>After finishing this level apply to 2 or 3 good sized projects.<i/></h4><br>
+<h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4><br>
   
 ***
 # :beginner: Advanced :beginner:
