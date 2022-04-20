@@ -232,8 +232,21 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:closed_book: [An Introduction to Statistical Learning](https://www.statlearning.com/)<br>
         &emsp;&emsp;&emsp;:closed_book: [Understanding Machine Learning: From Theory to Algorithms ](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)<br>
         &emsp;&emsp;&emsp;:closed_book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)<br>
+***
 
-  ***
+:trophy: :trophy:	**The best way to practice is to take part in competitions. Competitions will make you even more proficient in Data Science.**<br>
+&emsp;&emsp;When we talk about top data science competitions, **Kaggle** is one of the most popular platforms for data science. Kaggle has a lot of competitions where you can participate according to your knowledge level.<br>
+
+*You can also check these platforms for data science competitions-*
+        &emsp;&emsp;&emsp; [Driven Data](https://www.drivendata.org/competitions/)<br>
+        &emsp;&emsp;&emsp; [Codalab](https://competitions.codalab.org/)<br>
+        &emsp;&emsp;&emsp; [Iron Viz](https://www.tableau.com/community/iron-viz)<br>
+        &emsp;&emsp;&emsp; [Topcoder](https://www.topcoder.com/challenges)<br>
+        &emsp;&emsp;&emsp; [CrowdANALYTIX Community](https://www.crowdanalytix.com/community)<br>
+        &emsp;&emsp;&emsp; [Bitgrit](https://bitgrit.net/)<br>
+
+        
+***
 
 :pushpin:	**Data Analysis Recommendations.**<br>
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
