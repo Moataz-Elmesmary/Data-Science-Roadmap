@@ -200,13 +200,13 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
         &emsp;&emsp;&emsp;:video_camera: [course](https://www.coursera.org/learn/statistical-inferences)<br>
 6. Bayesian Statistics<br>
-        &emsp;&emsp;&emsp;:video_camera: [1 - From Concept to Data Analysis](hBayesian Statisticsttps://www.coursera.org/learn/bayesian-statistics)<br>
+        &emsp;&emsp;&emsp;:video_camera: [1 - From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)<br>
         &emsp;&emsp;&emsp;:video_camera: [2 - Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
         &emsp;&emsp;&emsp;:video_camera: [3 - Mixture Models](https://www.coursera.org/learn/mixture-models)<br>
 7. Tableau <br>
-[Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-[docs](https://www.tableau.com/learn/training/20201)<br>
-[course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
+        &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
+        &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
 8. Model Deployment <br>
 [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
 [Specialization with TF](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
