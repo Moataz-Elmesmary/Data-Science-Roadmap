@@ -5,18 +5,18 @@
 
 <h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.<i/></h4>
 
-<h2>Data Science vs Data Analytics vs Data Engineering - What's the Difference?<h2/><br>
+<h2>Data Science vs Data Analytics vs Data Engineering - What's the Difference?</h2><br>
   
 ![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
 
-<h4><i>These terms are wrongly used interchangably among people. There are distinct differences:<i/><h4/>
+<h4><i>These terms are wrongly used interchangably among people. There are distinct differences:<i/></h4>
 
 | :small_orange_diamond:	**Data Science**        | :small_orange_diamond:	**Data Analytics**           | :small_orange_diamond:	**Data Engineering**           |
 | ------------- | --------------------- | -------------------- |
 |<h5>Is a multidisciplinary field that focuses on looking at raw and structured data sets and providing potential actionable insights. The field of Data Science looks at ensuring we are asking the right questions as opposed to finding exact answers.  Data Scientist require skillsets that are centered on Computer Science, Mathematics, and Statistics.  Data Scientist use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling.  The tools Data Scientist use to apply these techniques include Python and R.      </h5>|<h5> Focuses on looking at existing data sets and creating solutions to capture data, process data, and finally organize data to draw actionable insights. This field looks at finding general process, business, and engineering improvements we can make based on questions we don't know the answers to.  Data Analytics require skillsets that are centered on Statistics, Mathematics, and high level understanding of Computer Science. It involves data cleaning, data visualization, and simple modeling.  Common Data Analytic tools used include Microsoft Power Bi, Tableau, and SQL.  </h5>|<h5> Focuses on creating the correct infrastructure and tools required to support the business.  Data Engineers look at what are the optimal ways to store and extract data and involves writing scripts and building data warehouses.  Data Engineering require skillsets that are centered on Software Engineering, Computer Science and high level Data Science.  The tools Data Engineers utilize are mainly Python, Java, Scala, Hadoop, and Spark. </h5>|
 
 # Prepare your workspace
-<details><summary> <h3>Tip :one:	: Pick one and stick to it. (:file_folder:Click)<h3/>
+<details><summary> <h3>Tip :one:	: Pick one and stick to it. (:file_folder:Click)</h3>
 </summary>
 <br>
   
@@ -118,9 +118,9 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;:video_camera: Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
   
-<h3><i>At The end of Beginner phase apply all what you've learned on a project.<i/><h3/>
-
-### :beginner: Intermediate :beginner:
+<h3><i>At The end of Beginner phase apply all what you've learned on a project.<i/></h3>
+***
+# :beginner: Intermediate :beginner:
 
 1. Math for ML: consists of Linear Algebra, Calculus and PCA. <br>
 [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br><br>
@@ -170,10 +170,10 @@ APIs <br>
         &emsp;&emsp;&emsp;:closed_book: [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 
-<h4><i>After finishing this level apply to 2 or 3 good sized projects.<i/><h4/><br>
+<h4><i>After finishing this level apply to 2 or 3 good sized projects.<i/></h4><br>
   
-  
-### :beginner: Advanced :beginner:
+***
+# :beginner: Advanced :beginner:
 
 1. Deep Learning <br>
         &emsp;&emsp;&emsp;:video_camera: [Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)<br>
