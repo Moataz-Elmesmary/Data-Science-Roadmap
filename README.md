@@ -172,15 +172,23 @@ APIs <br>
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.<i/><h4/><br>
 
 ### :beginner: Advanced :beginner:
-**This section is subjected to A lot of editing as I haven't finished it yet..**
 
 1. Deep Learning <br>
-[Specialization](https://www.coursera.org/specializations/deep-learning)<br>
-[Book](https://d2l.ai/d2l-en.pdf?fbclid=IwAR0sVdA8VFYpNZCpYZHgo_kl_HYrjcjDfjEka26D8xRWAhbhh6mmSNIXg3U)<br>
-[github of Dive into DL](https://github.com/d2l-ai/d2l-en?fbclid=IwAR0QN35b-NHHWq_zKISA1cbI063aRqqoKqR_0e3cpnT5h58GkcNbCIJs3iw)
+        &emsp;&emsp;&emsp;:video_camera: [Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Introduction to
+Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7mlHvdvs4sMUm2D6RLYVwFpp2nT2t1Zj1GGy3QAWQvQ)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/deep-learning)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Dive into Deep Learning - Book](https://d2l.ai/d2l-en.pdf?fbclid=IwAR0sVdA8VFYpNZCpYZHgo_kl_HYrjcjDfjEka26D8xRWAhbhh6mmSNIXg3U)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Deep Learning UC Berkely](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)<br>
+        &emsp;&emsp;&emsp;:closed_book: [github of Dive into DL](https://github.com/d2l-ai/d2l-en?fbclid=IwAR0QN35b-NHHWq_zKISA1cbI063aRqqoKqR_0e3cpnT5h58GkcNbCIJs3iw)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Stanford Lecture - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)<br>
+        &emsp;&emsp;&emsp;:video_camera: [University of Waterloo - ML / DL](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)<br>
+
 
 2. Tensorflow..<br>
-[Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
+        &emsp;&emsp;&emsp; [fast.ai's Deep Learning Courses](https://www.fast.ai/)<br>
 
 3. Advanced Data Science+ apache spark<br>
 [Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
