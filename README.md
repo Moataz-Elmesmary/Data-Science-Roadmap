@@ -158,24 +158,20 @@ APIs <br>
          &emsp;&emsp;&emsp;:closed_book: [This stats - Book](https://b-ok.africa/book/2737548/7659e9)<br>
          &emsp;&emsp;&emsp;:closed_book: [Think Bayes - Book](https://b-ok.africa/book/2737587/ab97d5)<br>
 5. Advanced SQL<br>
-         &emsp;&emsp;&emsp;:video_camera: [Intermediate data visulaization with seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
+         &emsp;&emsp;&emsp;:video_camera: [More advanced SQL](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
          &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
 
-6. Time Series Analysis<br>
-[Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
-[Book](https://www.memsql.com/resources/ebook-oreilly_time_series_2019)<br>
-[fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
 7. Feature Engineering<br>
-[Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
-[Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
-[Book](https://b-ok.cc/book/3583182/056a36)<br>
-8. Interpreting ML models ****more to be added here*** <br/>
-[SHAP](https://shap.readthedocs.io/en/latest/)<br/>
-[Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
+         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Book](https://b-ok.cc/book/3583182/056a36)<br>
+8. interpet Shapley-based explanations of ML models.<br/>
+        &emsp;&emsp;&emsp;:closed_book: [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 
-###  After finishing this level apply to 2 or 3 good sized projects.
+<h3><i>After finishing this level apply to 2 or 3 good sized projects.<i/><h3/>
 
-## Advanced
+# :beginner: Advanced :beginner:
 **This section is subjected to A lot of editing as I haven't finished it yet..**
 
 1. Deep Learning <br>
