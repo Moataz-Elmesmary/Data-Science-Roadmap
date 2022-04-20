@@ -237,7 +237,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 :trophy: :trophy:	**The best way to practice is to take part in competitions. Competitions will make you even more proficient in Data Science.**<br>
 &emsp;&emsp;When we talk about top data science competitions, **Kaggle** is one of the most popular platforms for data science. Kaggle has a lot of competitions where you can participate according to your knowledge level.<br>
 
-*You can also check these platforms for data science competitions-*
+**You can also check these platforms for data science competitions-**<br>
         &emsp;&emsp;&emsp; [Driven Data](https://www.drivendata.org/competitions/)<br>
         &emsp;&emsp;&emsp; [Codalab](https://competitions.codalab.org/)<br>
         &emsp;&emsp;&emsp; [Iron Viz](https://www.tableau.com/community/iron-viz)<br>
