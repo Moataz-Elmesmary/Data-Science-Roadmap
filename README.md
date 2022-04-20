@@ -211,10 +211,10 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:closed_book: [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
         &emsp;&emsp;&emsp;:video_camera: [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
         &emsp;&emsp;&emsp;:video_camera: [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
-        &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
+        &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)
         &emsp;&emsp;&emsp; <h5> if you`re intersted in more deployment methods, search for (<u>FastAPI<u/> - <u>Heroku<u/> - <u>chitra<u/>)<h5/><br>
 
-10 Probabilistic Graphical Models<br>       
+9 Probabilistic Graphical Models<br>       
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 ***
 
@@ -222,6 +222,4 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 ***
 
-# Medium Articles
----> More to come on this. I will be uploading my own content onto Medium (will post links to the articles) and I'll go into depth with how to analyze basic problems and models using techniques such as linear regressions, A/B Testing, neural networks, and high level machine learning.  Also, I'll cover some examples of how to use visual applications such as Microsoft Power Bi to build reports and dashboards. 
-
+**Tasks and Projects will be added soon.** :hourglass_flowing_sand:	
