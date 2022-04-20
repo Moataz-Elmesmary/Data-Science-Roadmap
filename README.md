@@ -196,13 +196,13 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 
-5. Inferential stats <br>
+5. Inferential Statistics <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
         &emsp;&emsp;&emsp;:video_camera: [course](https://www.coursera.org/learn/statistical-inferences)<br>
-6. Bayesian stats.<br>
-[1](https://www.coursera.org/learn/bayesian-statistics)<br>
-[2](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
-[3](https://www.coursera.org/learn/mixture-models)<br>
+6. Bayesian Statistics<br>
+        &emsp;&emsp;&emsp;:video_camera: [1 - From Concept to Data Analysis](hBayesian Statisticsttps://www.coursera.org/learn/bayesian-statistics)<br>
+        &emsp;&emsp;&emsp;:video_camera: [2 - Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
+        &emsp;&emsp;&emsp;:video_camera: [3 - Mixture Models](https://www.coursera.org/learn/mixture-models)<br>
 7. Tableau <br>
 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
 [docs](https://www.tableau.com/learn/training/20201)<br>
