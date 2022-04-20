@@ -224,7 +224,10 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 **Tasks and Projects will be added soon.** :hourglass_flowing_sand:	<br><br>
 ***
-
+#### Common tools<br>
+[Anaconda](https://learn.datacamp.com/courses/conda-essentials)<br>
+[Github](https://git-scm.com/book/en/v2)<br>
+[course](https://www.udacity.com/course/version-control-with-git--ud123)<br>
 ### :pushpin: **More Books** 	<br>
  &emsp;&emsp;:atom::atom::atom::atom::atom:<br>
   &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>65</b> Free Important Books :fire:](https://techgrabyte.com/springer-released-65-machine-learning-data-science-books-free/?fbclid=IwAR3x9Mfd4FSrBo_y2F92cAghhZ8851qv3wQ1R_u87s70MZTDtKeG5yn7Hts)<br>
