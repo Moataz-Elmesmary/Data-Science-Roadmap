@@ -119,7 +119,7 @@ Note: it's already mentioned in the above probability course <br>
   
 <h3><i>At The end of Beginner phase apply all what you've learned on a project.<i/><h3/>
 
-# :beginner: Intermediate :beginner:
+### :beginner: Intermediate :beginner:
 
 1. Math for ML: consists of Linear Algebra, Calculus and PCA. <br>
 [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br><br>
@@ -169,9 +169,9 @@ APIs <br>
         &emsp;&emsp;&emsp;:closed_book: [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 
-<h3><i>After finishing this level apply to 2 or 3 good sized projects.<i/><h3/>
+<h4><i>After finishing this level apply to 2 or 3 good sized projects.<i/><h4/><br>
 
-# :beginner: Advanced :beginner:
+### :beginner: Advanced :beginner:
 **This section is subjected to A lot of editing as I haven't finished it yet..**
 
 1. Deep Learning <br>
