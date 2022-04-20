@@ -190,14 +190,15 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
         &emsp;&emsp;&emsp; [fast.ai's Deep Learning Courses](https://www.fast.ai/)<br>
 
-3. Advanced Data Science+ apache spark<br>
-[Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
+3. Advanced Data Science<br>
+        &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
 4. NLP <br>
-[Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 
 5. Inferential stats <br>
-[Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
-[course](https://www.coursera.org/learn/statistical-inferences)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
+        &emsp;&emsp;&emsp;:video_camera: [course](https://www.coursera.org/learn/statistical-inferences)<br>
 6. Bayesian stats.<br>
 [1](https://www.coursera.org/learn/bayesian-statistics)<br>
 [2](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
