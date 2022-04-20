@@ -225,7 +225,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 **Tasks and Projects will be added soon.** :hourglass_flowing_sand:	<br><br>
 ***
 
-:pushpin:	**More Books** 	<br>
+### :pushpin: **More Books** 	<br>
  &emsp;&emsp;:atom::atom::atom::atom::atom:<br>
   &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>65</b> Free Important Books :fire:](https://techgrabyte.com/springer-released-65-machine-learning-data-science-books-free/?fbclid=IwAR3x9Mfd4FSrBo_y2F92cAghhZ8851qv3wQ1R_u87s70MZTDtKeG5yn7Hts)<br>
         &emsp;&emsp;&emsp;:closed_book: [Mathematics for Machine Learning ](https://mml-book.github.io/)<br>
@@ -234,16 +234,17 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:closed_book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)<br>
 ***
 
-:trophy: :trophy:	**The best way to practice is to take part in competitions. Competitions will make you even more proficient in Data Science.**<br>
-&emsp;&emsp;When we talk about top data science competitions, **Kaggle** is one of the most popular platforms for data science. Kaggle has a lot of competitions where you can participate according to your knowledge level.<br>
+### The best way to practice is to take part in competitions.:trophy: :trophy:	<br>
+**Competitions will make you even more proficient in Data Science.**<br>
+When we talk about top data science competitions, [**Kaggle**](https://www.kaggle.com/) is one of the most popular platforms for data science. Kaggle has a lot of competitions where you can participate according to your knowledge level.<br>
 
 **You can also check these platforms for data science competitions-**<br>
-        &emsp;&emsp;&emsp; [Driven Data](https://www.drivendata.org/competitions/)<br>
-        &emsp;&emsp;&emsp; [Codalab](https://competitions.codalab.org/)<br>
-        &emsp;&emsp;&emsp; [Iron Viz](https://www.tableau.com/community/iron-viz)<br>
-        &emsp;&emsp;&emsp; [Topcoder](https://www.topcoder.com/challenges)<br>
-        &emsp;&emsp;&emsp; [CrowdANALYTIX Community](https://www.crowdanalytix.com/community)<br>
-        &emsp;&emsp;&emsp; [Bitgrit](https://bitgrit.net/)<br>
+        - [Driven Data](https://www.drivendata.org/competitions/)<br>
+        - [Codalab](https://competitions.codalab.org/)<br>
+        - [Iron Viz](https://www.tableau.com/community/iron-viz)<br>
+        - [Topcoder](https://www.topcoder.com/challenges)<br>
+        - [CrowdANALYTIX Community](https://www.crowdanalytix.com/community)<br>
+        - [Bitgrit](https://bitgrit.net/)<br>
 
         
 ***
