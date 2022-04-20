@@ -1,5 +1,5 @@
 ![photo_2022-04-20_03-18-03](https://user-images.githubusercontent.com/92026137/164127639-38317783-8c5e-4b85-acf5-3d6bd6dbf9c0.jpg)
-<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DATA SCIENCE ROADMAP :pirate_flag: <h1/>
+<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2022 <h1/>
 Data Science Roadmap for anyone interested in how to break into the field!
 
 <h3><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.<i/><h3/>
@@ -46,7 +46,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 ## Legend
 * :video_camera: Video Content
 * :closed_book: Online Article Content / Book
-
+***
 # :beginner: Beginner :beginner:
 
  1. Descriptive Stats. <br>
@@ -170,7 +170,8 @@ APIs <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.<i/><h4/><br>
-
+  
+  
 ### :beginner: Advanced :beginner:
 
 1. Deep Learning <br>
@@ -219,7 +220,6 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 ***
 
 
-***
 
 **Tasks and Projects will be added soon.** :hourglass_flowing_sand:	<br><br>
 ***
@@ -240,6 +240,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 :pushpin:	Data Engineering Recommendations.<br>
         &emsp;&emsp;&emsp; [Roadmap](https://www.educba.com/data-engineer-roadmap/)<br> 
         &emsp;&emsp;&emsp; [Roadmap](https://github.com/datastacktv/data-engineer-roadmapCheckMe)<br> 
-
-## Personal Contact :arrow_down_small:	
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary)  
+***
+## Contact Me :iphone:	 <br>
+&emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)  
