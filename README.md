@@ -218,11 +218,10 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 ***
 
-...MORE yet to come in this section..
 
 ***
 
-**Tasks and Projects will be added soon.** :hourglass_flowing_sand:	
+**Tasks and Projects will be added soon.** :hourglass_flowing_sand:	<br><br>
 ***
 ## Personal Contact :arrow_down_small:	
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary)  
