@@ -5,9 +5,9 @@
 
 <h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.</i></h4>
 
-&emsp;&emsp :warning:	*Before we start,* :warning:
+&emsp;&emsp; :warning:	<b>*Before we start,*</b> :warning:
 #### If you Dont know What`s Data Science or Projects Life Cycle (starting from Business Understanding to Deployment) or Which Programming Language you should go for or Job Descriptions or the required Soft & Hard Skills needed for this field or Data Science Applications or the Most Common Mistakes, then<br>
-:pushpin:**This Video is for you (Highly Recommended :heavy_check_mark:)**
+:pushpin:**[This Video]() is for you (Highly Recommended :heavy_check_mark:)**
 
 <h2>Data Science vs Data Analytics vs Data Engineering - What's the Difference?</h2><br>
   
