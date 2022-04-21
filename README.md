@@ -3,7 +3,7 @@
 
 ### Data Science Roadmap for anyone interested in how to break into the field!
 
-<h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.</i></h4>
+<h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.</i></h4><br>
 
 &emsp;&emsp; :warning:	<b>*Before we start,*</b> :warning:
 #### If you Dont know What`s Data Science or Projects Life Cycle (starting from Business Understanding to Deployment) or Which Programming Language you should go for or Job Descriptions or the required Soft & Hard Skills needed for this field or Data Science Applications or the Most Common Mistakes, then<br>
