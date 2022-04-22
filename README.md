@@ -7,7 +7,7 @@
 
 &emsp;&emsp; :warning:	<b>*Before we start,*</b> :warning:
 #### If you Dont know What`s Data Science or Projects Life Cycle (starting from Business Understanding to Deployment) or Which Programming Language you should go for or Job Descriptions or the required Soft & Hard Skills needed for this field or Data Science Applications or the Most Common Mistakes, then<br>
-### :pushpin:**[This Video](https://www.youtube.com/watch?v=5zRvq7CG6Zw) is for you (Highly Recommended :heavy_check_mark:)**
+### :pushpin:**[This Video](https://www.youtube.com/watch?v=5zRvq7CG6Zw&t=5s) is for you (Highly Recommended :heavy_check_mark:)**
 
 <h2>Data Science vs Data Analytics vs Data Engineering - What's the Difference?</h2><br>
   
