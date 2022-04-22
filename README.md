@@ -36,7 +36,8 @@
 Most learning platforms have integrated code exercises where you don’t need to install anything locally. But to learn it right, you should have an IDE installed on your local machine. Suggestions will be a marketplace with many options and few improvements from one platform to another.
 
 ### Tip :two:	: Focus on one course at least.
-### Tip :three: : Don’t chase certifications
+### Tip :three: : Don’t chase certifications.
+### Tip :four: : Don’t rush for ML without knowing programing & maths.
 
 
   
