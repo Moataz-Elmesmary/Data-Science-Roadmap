@@ -242,6 +242,53 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:closed_book: [Understanding Machine Learning: From Theory to Algorithms ](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)<br>
         &emsp;&emsp;&emsp;:closed_book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)<br>
 ***
+<details>
+<summary> <h3> :pushpin:  <b>Collection of the best Cheat sheets</b></h3></summary>
+
+1. [Importing Data](https://lnkd.in/e3jnyTEi)
+
+2. Pandas
+
+&emsp;&emsp; - [(1)](https://lnkd.in/eiXuBbWh_)
+&emsp;&emsp; - [(2)](https://lnkd.in/e8PKwQQQ)
+&emsp;&emsp; - [(3)](https://lnkd.in/ewQfqe8q)
+
+3. [Matplotlib](https://lnkd.in/ejxbW8ak)
+
+4. [Seaborn](https://lnkd.in/ejhxUp2K)
+
+5. [Probability](https://lnkd.in/e4Jxx6xP)
+
+6. [Supervised Learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf)
+
+7. [Unsupervised Learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf)
+
+8. [Deep Learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-deep-learning.pdf)
+
+9. [Machine Learning Tips and Tricks](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-machine-learning-tips-and-tricks.pdf)
+
+10. [Probabilities and Statistics](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-probabilities-statistics.pdf)
+
+11. [Comprehensive Stanford Master Cheat Sheet](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf)
+
+12. [Linear Algebra and Calculus](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-algebra-calculus.pdf)
+
+13. [Data Science Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
+
+14. [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
+
+15. [Deep Learning with Keras Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
+
+16. [Visual Guide to Neural Network Infrastructures](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
+
+17. [Skicit-Learn Python Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+
+18. [Scikit-learn Cheat Sheet: Choosing the Right Estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
+19. [Tensorflow Cheat Sheet](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf)
+
+20. [Machine Learning Test Cheat Sheet](https://www.cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/)</details> 
+***
 
 ### The best way to practice is to take part in competitions.:trophy: :trophy:	<br>
 **Competitions will make you even more proficient in Data Science.**<br>
