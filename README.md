@@ -37,7 +37,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 
 ### Tip :two:	: Focus on one course at least.
 ### Tip :three: : Don’t chase certifications.
-### Tip :four: : Don’t rush for ML without having a good background in programing & maths.
+### Tip :four: : Don’t rush for ML without having a good background in programming & maths.
 
 
   
