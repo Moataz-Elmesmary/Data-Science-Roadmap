@@ -114,15 +114,27 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;:video_camera: [DataCamp-EDA in Python](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python) <br>
         &emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 
-**10. SQL and DB**<br>
+**10. Dashboards**<br>
+ &emsp;*Tableau*<br>
+        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
+        &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
+        &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+&emsp;*Power BI*<br>
+        &emsp;&emsp;&emsp;:video_camera: [Power BI Desktop - Coursera](https://www.coursera.orghttps://powerbi.microsoft.com/en-us/learning//projects/power-bi-desktop)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
+
+
+
+**11. SQL and DB**<br>
          &emsp;&emsp;&emsp;:video_camera: [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM](https://www.coursera.org/learn/sql-data-science)<br>
          &emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
          &emsp;&emsp;&emsp;:video_camera: [Arabric Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)<br>
          &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
 
-**11. Python Regular Expression**<br>
+**12. Python Regular Expression**<br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
-**12. Time Series Analysis**<br>
+**13. Time Series Analysis**<br>
          &emsp;&emsp;&emsp;:video_camera: [Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
          &emsp;&emsp;&emsp;:closed_book: [Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
          &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
@@ -222,18 +234,14 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [1 - From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)<br>
         &emsp;&emsp;&emsp;:video_camera: [2 - Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
         &emsp;&emsp;&emsp;:video_camera: [3 - Mixture Models](https://www.coursera.org/learn/mixture-models)<br>
-**7. Tableau** <br>
-        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-        &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
-        &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
-**8. Model Deployment** <br>
+**7. Model Deployment** <br>
         &emsp;&emsp;&emsp;:closed_book: [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
         &emsp;&emsp;&emsp;:video_camera: [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
         &emsp;&emsp;&emsp;:video_camera: [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
         &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
         &emsp;&emsp;&emsp;if you`re intersted in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
 
-**9. Probabilistic Graphical Models** <br>       
+**8. Probabilistic Graphical Models** <br>       
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 ***
 
