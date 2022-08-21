@@ -10,6 +10,7 @@
 #### If you Dont know What`s Data Science or Projects Life Cycle (starting from Business Understanding to Deployment) or Which Programming Language you should go for or Job Descriptions or the required Soft & Hard Skills needed for this field or Data Science Applications or the Most Common Mistakes, then<br>
 ### :pushpin:**[This Video](https://www.youtube.com/watch?v=5zRvq7CG6Zw&t=5s) is for you (Highly Recommended :heavy_check_mark:)**
 
+
 <h2>Data Science vs Data Analytics vs Data Engineering - What's the Difference?</h2><br>
   
 ![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
@@ -41,7 +42,6 @@ Most learning platforms have integrated code exercises where you don’t need to
 ### Tip :four: : Don’t rush for ML without having a good background in programming & maths.
 
 
-  
 ## This track is divided into 3 phases :arrow_down:	:
 
 #### &emsp; 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
@@ -50,10 +50,14 @@ Most learning platforms have integrated code exercises where you don’t need to
 
 :bell: For Data Camp courses, github student pack gives 3 free months. Google how to get it.<br> <i>if you already used it, do not hesitate to contact us to have an account with free access.:hibiscus:</i>
   
+
 ## Legend
 * :video_camera: Video Content
 * :closed_book: Online Article Content / Book
+### :bulb: Roadmap Explanation :arrow_forward: [Video](https://youtu.be/HbIPJuvzRLk) :movie_camera:
+
 ***
+
 ## :beginner: Beginner :beginner:
 
 [Algorithms Book](https://github.com/cjbt/Free-Algorithm-Books/blob/master/book/Grokking%20Algorithms%20-%20An%20illustrated%20guide%20for%20programmers%20and%20other%20curious%20people.pdf) <i>Every piece of code could be called an algorithm, but this book covers the
