@@ -327,8 +327,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 
         
 ***
-<b> :radio_button: Data Science Interview Questions: <b><br>
-&emsp;&emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
+<b> :notebook: Data Science Interview Questions: <b> :arrow_forward:	
+&emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
 &emsp; - [(2)](https://github.com/alexeygrigorev/data-science-interviews)
 &emsp; - [(3)](https://github.com/rbhatia46/Data-Science-Interview-Resources)
 &emsp; - [(4)](https://github.com/iamtodor/data-science-interview-questions-and-answers)
