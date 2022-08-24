@@ -327,7 +327,14 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 
         
 ***
+<b> :radio_button: Data Science Interview Questions: <b><br>
+&emsp;&emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
+&emsp; - [(2)](https://github.com/alexeygrigorev/data-science-interviews)
+&emsp; - [(3)](https://github.com/rbhatia46/Data-Science-Interview-Resources)
+&emsp; - [(4)](https://github.com/iamtodor/data-science-interview-questions-and-answers)
+&emsp; - [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
 
+***
 :pushpin:	**Data Analysis Recommendations.**<br>
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
         &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
