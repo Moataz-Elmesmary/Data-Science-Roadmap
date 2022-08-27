@@ -341,7 +341,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
 :pushpin:	**Data Engineering Recommendations.**<br>
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
-        &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmapCheckMe)<br> 
+        &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br> 
 ***
 :pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt)
 ***
