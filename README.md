@@ -203,8 +203,9 @@ APIs <br>
 **8. interpet Shapley-based explanations of ML models.**<br/>
         &emsp;&emsp;&emsp;:closed_book: [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
-<h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4><br>
-  
+<h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4>
+
+<i>Read this book, please</i> :open_book: [Introduction to Statistical Learning with Applications in R](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Introduction%20to%20Statistical%20Learning%20with%20Applications%20in%20R.pdf) بقولك اقرأه<br>
 ***
 ## :beginner: Advanced :beginner:
 
