@@ -144,7 +144,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;:video_camera: Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
   
-<h4><i>At The end of Beginner phase apply all what you've learned on a project.</i></h4><br>
+<h4><i>At The end of Beginner phase apply all what you've learned on a project.</i></h4>
 
 ***
 
