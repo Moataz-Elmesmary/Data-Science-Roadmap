@@ -70,6 +70,8 @@ more interesting bits.</i><br>
 &emsp;&emsp;&emsp;:closed_book: Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)++<br>
+&emsp;&emsp;&emsp;:closed_book: [Practical Statistics for Data Scientists](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Practical%20Statistics%20for%20Data%20Scientists.pdf)<br>
+
 **2. Probability**<br>
 &emsp;&emsp;&emsp;:video_camera: [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
