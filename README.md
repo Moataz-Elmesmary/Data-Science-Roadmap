@@ -70,6 +70,8 @@ more interesting bits.</i><br>
 &emsp;&emsp;&emsp;:closed_book: Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)++<br>
+&emsp;&emsp;&emsp;:closed_book: [Practical Statistics for Data Scientists](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Practical%20Statistics%20for%20Data%20Scientists.pdf)<br>
+
 **2. Probability**<br>
 &emsp;&emsp;&emsp;:video_camera: [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
@@ -78,14 +80,15 @@ more interesting bits.</i><br>
 **3. Python**<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
         &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
+        &emsp;&emsp;&emsp;:video_camera: Arabic - [Hassouna](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep) | [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)<br>
         &emsp;&emsp;&emsp;:video_camera: [Python Full Course - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Intro to Python for CS and Data Science](https://drive.google.com/file/d/1rXkYFjw1iKbXCra_B4Ykm0AMRgo6v93w/view?fbclid=IwAR2lg9omGaAsG3g1ZhHQHja8_uxkZ7QddnOUSxfoceRXShU1V_bl4V63xCQ)<br>
         &emsp;&emsp;&emsp;[more in OOP](https://www.futurelearn.com/courses/object-oriented-principles)<br>
 **4. Pandas**<br>
-        &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Corey Schafer-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/pandas)<br>
         &emsp;&emsp;&emsp;:closed_book: [Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Data School-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
 **5. Numpy**<br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
@@ -230,6 +233,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
 **4. NLP** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Arabic - Ahmed El Sallab](https://www.youtube.com/playlist?list=PLxmZ0b-n395VxzEUL8-Dy257zSqYZe4yU)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 
 **5. Inferential Statistics** <br>
@@ -256,7 +260,9 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 ### :pushpin: Common Tools :arrow_heading_down:<br>
 &emsp;&emsp;&emsp;[Anaconda](https://learn.datacamp.com/courses/conda-essentials)<br>
 &emsp;&emsp;&emsp;[Git](https://git-scm.com/book/en/v2)<br>
-&emsp;&emsp;&emsp;[course](https://www.udacity.com/course/version-control-with-git--ud123)<br>
+&emsp;&emsp;&emsp;[Course - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)<br>
+&emsp;&emsp;&emsp;[Arabic - Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
+
         
 ### :pushpin: **More Books ~ [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
  &emsp;&emsp;:atom::atom::atom::atom::atom:<br>
@@ -334,18 +340,40 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp; - [(3)](https://github.com/rbhatia46/Data-Science-Interview-Resources)
 &emsp; - [(4)](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 &emsp; - [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
+&emsp; - [(6) Arabic Podcast](https://www.youtube.com/watch?v=YjloQOreudk)
+
 
 ***
 :pushpin:	**Data Analysis Recommendations.**<br>
+        &emsp;&emsp;&emsp; Books (:closed_book: [The Data Analysis Workshop](https://drive.google.com/file/d/1BjKsffA2SCY0jY8OIIzgQgM0ZS7E9v_v/view?fbclid=IwAR2_GBlrX7VYoo8WCRO9R2qqrYEqtytoGrObxy1QHWcQ7sRaFjRLb0GmuxM) &
+        &emsp;:closed_book: [Head First Data Analysis](https://drive.google.com/file/d/1HXHkwrgsSJLYSeB6I0wPUXIGGnm2-HQ6/view?fbclid=IwAR27M-dlPN6o0YuZg3bXH6_DP9L2fBhkKDEkChvO4SPG-SXfkxrzuoGP5RM))<br>
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
         &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
         &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
-:pushpin:	**Data Engineering Recommendations.**<br>
+
+  
+:pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br> 
 ***
-:pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt)
+<details><summary>:file_folder: <h4>CV / Resumes :memo: </h4>
+</summary>
+  
+- [Common mistakes by Yehia Arafa Mostafa](https://www.facebook.com/yehia.arafa.mostafa/posts/110086229517000)<br>
+- [CV Tips by Omar Yasser](https://medium.com/@oyaraouf/cv-tips-5faaec55ec07)<br>
+- [This Is What A GOOD Resume Should Look Like by careercup](https://www.careercup.com/resume)<br>
+- After you have made your beta-version resume, check those [reviews from Mostafa Nageeb](https://www.facebook.com/story.php?story_fbid=2928705840553931&id=445112032246670)<br>
+- [After Graduation by Yasser Alaa](https://www.linkedin.com/feed/update/urn:li:activity:6964595411839799296/)<br>
+- [How to make Data Science Resume](https://enhancv.com/resume-examples/data-scientist/)<br>
+- [Data Science Resume Guide](https://www.beamjobs.com/resumes/data-science-resume-example-guide)<br>
+- Resume/CV building for Data Jobs (Arabic)<br>
+&emsp;&emsp;:video_camera:[Video 1](https://www.youtube.com/watch?v=R0hsJiNxdDE)<br>
+&emsp;&emsp;:video_camera:[Video 2](https://www.youtube.com/watch?v=CrTO0hrC-zQ)
+</details>
+  
 ***
+:pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt) &emsp; - &emsp; [<i>AI/ML Driven Companies In Egypt</i>](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
+*** 
 ## Contact Me :iphone:	 <br>
   
 <a href="https://www.facebook.com/MoatazElmesmary/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
