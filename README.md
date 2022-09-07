@@ -78,7 +78,7 @@ more interesting bits.</i><br>
 **3. Python**<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
         &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)<br>
+        &emsp;&emsp;&emsp;:video_camera: Arabic - [Hassouna](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep) | [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)<br>
         &emsp;&emsp;&emsp;:video_camera: [Python Full Course - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)<br>
         &emsp;&emsp;&emsp;[more in OOP](https://www.futurelearn.com/courses/object-oriented-principles)<br>
 **4. Pandas**<br>
