@@ -85,7 +85,7 @@ more interesting bits.</i><br>
         &emsp;&emsp;&emsp;:video_camera: [Corey Schafer-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/pandas)<br>
         &emsp;&emsp;&emsp;:closed_book: [Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Data School-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
 **5. Numpy**<br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
