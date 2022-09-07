@@ -82,7 +82,7 @@ more interesting bits.</i><br>
         &emsp;&emsp;&emsp;:video_camera: [Python Full Course - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)<br>
         &emsp;&emsp;&emsp;[more in OOP](https://www.futurelearn.com/courses/object-oriented-principles)<br>
 **4. Pandas**<br>
-        &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Corey Schafer-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/pandas)<br>
         &emsp;&emsp;&emsp;:closed_book: [Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
         &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
