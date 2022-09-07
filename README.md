@@ -233,6 +233,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
 **4. NLP** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Arabic - Ahmed El Sallab](https://www.youtube.com/playlist?list=PLxmZ0b-n395VxzEUL8-Dy257zSqYZe4yU)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 
 **5. Inferential Statistics** <br>
