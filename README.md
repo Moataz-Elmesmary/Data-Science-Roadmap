@@ -259,7 +259,9 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 ### :pushpin: Common Tools :arrow_heading_down:<br>
 &emsp;&emsp;&emsp;[Anaconda](https://learn.datacamp.com/courses/conda-essentials)<br>
 &emsp;&emsp;&emsp;[Git](https://git-scm.com/book/en/v2)<br>
-&emsp;&emsp;&emsp;[course](https://www.udacity.com/course/version-control-with-git--ud123)<br>
+&emsp;&emsp;&emsp;[Course - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)<br>
+&emsp;&emsp;&emsp;[Arabic - Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
+
         
 ### :pushpin: **More Books ~ [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
  &emsp;&emsp;:atom::atom::atom::atom::atom:<br>
