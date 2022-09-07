@@ -356,9 +356,24 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br> 
 ***
-:pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt) &emsp; - &emsp; [<i>AI/ML Driven Companies In Egypt</i>](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
-
+<details><summary>:file_folder: <h4>CV / Resumes :memo: </h4>
+</summary>
+  
+- [Common mistakes by Yehia Arafa Mostafa](https://www.facebook.com/yehia.arafa.mostafa/posts/110086229517000)<br>
+- [CV Tips by Omar Yasser](https://medium.com/@oyaraouf/cv-tips-5faaec55ec07)<br>
+- [This Is What A GOOD Resume Should Look Like by careercup](https://www.careercup.com/resume)<br>
+- After you have made your beta-version resume, check those [reviews from Mostafa Nageeb](https://www.facebook.com/story.php?story_fbid=2928705840553931&id=445112032246670)<br>
+- [After Graduation by Yasser Alaa](https://www.linkedin.com/feed/update/urn:li:activity:6964595411839799296/)<br>
+- [How to make Data Science Resume](https://enhancv.com/resume-examples/data-scientist/)<br>
+- [Data Science Resume Guide](https://www.beamjobs.com/resumes/data-science-resume-example-guide)<br>
+- Resume/CV building for Data Jobs (Arabic)<br>
+&emsp;&emsp;:video_camera:[Video 1](https://www.youtube.com/watch?v=R0hsJiNxdDE)<br>
+&emsp;&emsp;:video_camera:[Video 2](https://www.youtube.com/watch?v=CrTO0hrC-zQ)
+</details>
+  
 ***
+:pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt) &emsp; - &emsp; [<i>AI/ML Driven Companies In Egypt</i>](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
+*** 
 ## Contact Me :iphone:	 <br>
   
 <a href="https://www.facebook.com/MoatazElmesmary/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
