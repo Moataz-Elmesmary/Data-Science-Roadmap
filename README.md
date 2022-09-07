@@ -337,6 +337,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp; - [(3)](https://github.com/rbhatia46/Data-Science-Interview-Resources)
 &emsp; - [(4)](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 &emsp; - [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
+&emsp; - [(6) Arabic Podcast](https://www.youtube.com/watch?v=YjloQOreudk)
+
 
 ***
 :pushpin:	**Data Analysis Recommendations.**<br>
