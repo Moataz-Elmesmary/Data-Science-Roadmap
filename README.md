@@ -337,10 +337,14 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 
 ***
 :pushpin:	**Data Analysis Recommendations.**<br>
+        &emsp;&emsp;&emsp; Books (:closed_book: [The Data Analysis Workshop](https://drive.google.com/file/d/1BjKsffA2SCY0jY8OIIzgQgM0ZS7E9v_v/view?fbclid=IwAR2_GBlrX7VYoo8WCRO9R2qqrYEqtytoGrObxy1QHWcQ7sRaFjRLb0GmuxM) &
+        &emsp;:closed_book: [Head First Data Analysis](https://drive.google.com/file/d/1HXHkwrgsSJLYSeB6I0wPUXIGGnm2-HQ6/view?fbclid=IwAR27M-dlPN6o0YuZg3bXH6_DP9L2fBhkKDEkChvO4SPG-SXfkxrzuoGP5RM))<br>
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
         &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
         &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
-:pushpin:	**Data Engineering Recommendations.**<br>
+
+  
+:pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br> 
 ***
