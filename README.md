@@ -354,7 +354,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
   
 :pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
-        &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br> 
+        &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
+        &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
 ***
 <details><summary>:file_folder: <h4>CV / Resumes :memo: </h4>
 </summary>
