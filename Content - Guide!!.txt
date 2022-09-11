@@ -2,7 +2,8 @@ A complete guide to (Data Science, ML and Data Analysis) in 2022 without any bac
 
 Free Self-Learning Roadmap from A to Z for anyone interested in breaking into this field!
 
-Roadmap: https://github.com/Moataz-Elmesmary/Data-Science-Roadmap
+📌Roadmap: https://github.com/Moataz-Elmesmary/Data-Science-Roadmap
+
 It provides :
 - Best resources (En/Ar)
 - Best Books (All Free!)
@@ -19,10 +20,11 @@ It provides :
 Let me know if I missed any good resources!
 This guide is regularly updated.
 
-Roadmap Explanation:
+
+📌Roadmap Explanation:
 https://www.youtube.com/watch?v=HbIPJuvzRLk (Video)
 
 
-If you Don't know What`s Data Science or Projects Life Cycle (starting from Business Understanding to Deployment) or Which Programming Language you should go for or Job Descriptions or the required Soft & Hard Skills needed for this field or Data Science Applications or the Most Common Mistakes, then
 
+If you Don't know What`s Data Science or Projects Life Cycle (starting from Business Understanding to Deployment) or Which Programming Language you should go for or Job Descriptions or the required Soft & Hard Skills needed for this field or Data Science Applications or the Most Common Mistakes, then
 📌This Video: https://youtu.be/5zRvq7CG6Zw is for you.
