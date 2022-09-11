@@ -334,13 +334,14 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 
         
 ***
-<b> :notebook: Data Science Interview Questions: <b> :arrow_forward:	
-&emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
-&emsp; - [(2)](https://github.com/alexeygrigorev/data-science-interviews)
-&emsp; - [(3)](https://github.com/rbhatia46/Data-Science-Interview-Resources)
-&emsp; - [(4)](https://github.com/iamtodor/data-science-interview-questions-and-answers)
-&emsp; - [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
-&emsp; - [(6) Arabic Podcast](https://www.youtube.com/watch?v=YjloQOreudk)
+<b> :notebook: Data Science Interview Questions: <b> :arrow_forward:
+&emsp;- [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
+&emsp;- [(2)](https://github.com/alexeygrigorev/data-science-interviews)
+&emsp;- [(3)](https://github.com/rbhatia46/Data-Science-Interview-Resources)
+&emsp;- [(4)](https://github.com/iamtodor/data-science-interview-questions-and-answers)
+&emsp;- [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
+&emsp;- [(6) Arabic Podcast](https://www.youtube.com/watch?v=YjloQOreudk):headphones:
+&emsp;- [(7) 30days-interview preparate](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
 
 
 ***
@@ -354,7 +355,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
   
 :pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
-        &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br> 
+        &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
+        &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
 ***
 <details><summary>:file_folder: <h4>CV / Resumes :memo: </h4>
 </summary>
