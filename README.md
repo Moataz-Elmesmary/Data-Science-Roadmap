@@ -217,7 +217,7 @@ APIs <br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to
 Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7mlHvdvs4sMUm2D6RLYVwFpp2nT2t1Zj1GGy3QAWQvQ)<br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/deep-learning)<br>
-        &emsp;&emsp;&emsp;:closed_book: [Dive into Deep Learning - Book](https://d2l.ai/d2l-en.pdf?fbclid=IwAR0sVdA8VFYpNZCpYZHgo_kl_HYrjcjDfjEka26D8xRWAhbhh6mmSNIXg3U)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Dive into Deep Learning (En)](https://d2l.ai/d2l-en.pdf?fbclid=IwAR0sVdA8VFYpNZCpYZHgo_kl_HYrjcjDfjEka26D8xRWAhbhh6mmSNIXg3U) | (Ar) version :arrow_right:[Part1](https://drive.google.com/file/d/1SrmT_r8dNK42IqyS0gwXtbLCZbk5G8eu/view?fbclid=IwAR1Xcf8PNKkPJMg0uHRE1QyIW4_BMxISIdoB8pPaepw38njhaIf04MYM218) & [Part2](https://drive.google.com/file/d/1UqEu0amRfAvJD0L1HosIn3UJi0FkNemU/view?fbclid=IwAR1og8pkWr1gT3jdUwqikCZVrOCpyrm0x6ZRL63Kitwhki35pazHdo_ScJI) <br>
         &emsp;&emsp;&emsp;:video_camera: [Deep Learning UC Berkely](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)<br>
         &emsp;&emsp;&emsp;:closed_book: [github of Dive into DL](https://github.com/d2l-ai/d2l-en?fbclid=IwAR0QN35b-NHHWq_zKISA1cbI063aRqqoKqR_0e3cpnT5h58GkcNbCIJs3iw)<br>
         &emsp;&emsp;&emsp;:video_camera: [Stanford Lecture - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)<br>
