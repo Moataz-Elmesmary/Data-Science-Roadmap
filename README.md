@@ -334,7 +334,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 
         
 ***
-<b> :notebook: Data Science Interview Questions: <b> :arrow_forward:
+<b> :notebook: Data Science Interview Questions: </b> :arrow_forward:
 &emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
 &emsp;- [(2)](https://github.com/alexeygrigorev/data-science-interviews)
 &emsp;- [(3)](https://github.com/rbhatia46/Data-Science-Interview-Resources)
@@ -351,6 +351,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
         &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
         &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
+        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in just [Excel](https://www.instagram.com/p/Cea-aa4PSfa/), SQL & Power BI / Tableau can bring you great opportunities*<br>
 
   
 :pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
