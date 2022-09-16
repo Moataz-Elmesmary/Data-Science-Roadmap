@@ -336,6 +336,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         
 ***
 <b> :notebook: Data Science Interview Questions: </b> :arrow_forward:
+
 &emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
 &emsp;- [(2)](https://github.com/alexeygrigorev/data-science-interviews)
 &emsp;- [(3)](https://github.com/rbhatia46/Data-Science-Interview-Resources)
@@ -343,7 +344,6 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;- [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
 &emsp;- [(6) Arabic Podcast](https://www.youtube.com/watch?v=YjloQOreudk):headphones:<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
-
 
 ***
 :pushpin:	**Data Analysis Recommendations.**<br>
