@@ -179,7 +179,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:video_camera: [Hesham Asem - Arabic content](https://www.youtube.com/c/HeshamAsem/playlists)<br>
          &emsp;&emsp;&emsp;:video_camera: [IBM ML with Python](https://www.coursera.org/learn/machine-learning-with-python)<br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning From Scratch - YouTube (Python Engineer)](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Hands on ML book](https://drive.google.com/file/d/15J7YoyRcmwQE2mgW5yVs-MrPL3YtmuSz/view?usp=sharing&fbclid=IwAR1RVi90sfrggEaZnc1roXW9H8AGECyHcsQnZw22FORq-HSaP0VlBU5CAiM)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Hands On ML (1st & 2nd) Editions](https://drive.google.com/drive/folders/1jnvI7BylXby2aa6kAPvBpOTmiSlUD6CK?usp=sharing) | example code ['Notebooks'](https://github.com/ageron/handson-ml?fbclid=IwAR3s31KlwkLKyrEwuEd4UMOcvHN1Q9Z2LLGzPg5vP4UKSwjriHxU0uO405c)<br>
          &emsp;&emsp;&emsp;:video_camera: [ML Algorithms in Practice](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)<br>
          &emsp;&emsp;&emsp;:video_camera: [ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
          &emsp;&emsp;&emsp;:video_camera: [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
