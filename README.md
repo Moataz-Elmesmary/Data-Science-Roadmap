@@ -75,7 +75,7 @@ more interesting bits.</i><br>
 **2. Probability**<br>
 &emsp;&emsp;&emsp;:video_camera: [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
-&emsp;&emsp;&emsp;:closed_book: [Introduction to Probability](https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing(https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing)**)<br>
+&emsp;&emsp;&emsp;:closed_book: [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)<br>
 
 **3. Python**<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
