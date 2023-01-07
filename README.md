@@ -134,6 +134,7 @@ Note: it's already mentioned in the above probability course <br>
 
 
 **11. SQL and DB**<br>
+         &emsp;&emsp;&emsp;:video_camera: SQL for Data Analysis ([simplilearn](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) or [Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198))<br>
          &emsp;&emsp;&emsp;:video_camera: [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM](https://www.coursera.org/learn/sql-data-science)<br>
          &emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
          &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)<br>
