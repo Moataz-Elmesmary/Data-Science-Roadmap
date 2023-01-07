@@ -230,13 +230,15 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
         &emsp;&emsp;&emsp; [fast.ai's Deep Learning Courses](https://www.fast.ai/)<br>
 
-**3. Pytorch**<br>
-        &emsp;&emsp;&emsp;:video_camera: [Pytorch (UC Berkeley) - Lec3 (The 5 parts)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
-        &emsp;&emsp;&emsp;:video_camera: [PyTorch Course (2022)](https://www.youtube.com/watch?v=v43SlgBcZ5Y&list=PLkdGijFCNuVk9fO1IMfdV1Igob0FUHhkB)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Pytorch - Dr. Data Science](https://www.youtube.com/watch?v=vVQs4h6HUvA&list=PLLeO8f6PhlKb_FAC7qxOBtxT9-8EPDAqk)<br>
+**3. PyTorch**<br>
+        &emsp;&emsp;&emsp;:video_camera: [PyTorch (UC Berkeley - Youtube) - Lec3 (The 5 parts)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
+        &emsp;&emsp;&emsp;:video_camera: [PyTorch - Dr. Data Science - Youtube](https://www.youtube.com/watch?v=vVQs4h6HUvA&list=PLLeO8f6PhlKb_FAC7qxOBtxT9-8EPDAqk)<br>
+        &emsp;&emsp;&emsp;:video_camera: [PyTorch Course (2022) - Youtube](https://www.youtube.com/watch?v=v43SlgBcZ5Y&list=PLkdGijFCNuVk9fO1IMfdV1Igob0FUHhkB)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Deep Learning With Pytorch](https://drive.google.com/file/d/1-KG_ufeg7zw2iLgG5RrJSFpyonLwulgF/view?usp=sharing)<br>
 
 **4. Advanced Data Science**<br>
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
+        
 **5. NLP** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Ahmed El Sallab](https://www.youtube.com/playlist?list=PLxmZ0b-n395VxzEUL8-Dy257zSqYZe4yU)<br>
