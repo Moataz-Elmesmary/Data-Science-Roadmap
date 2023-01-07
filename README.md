@@ -229,7 +229,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)<br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
         &emsp;&emsp;&emsp; [fast.ai's Deep Learning Courses](https://www.fast.ai/)<br> 
- ###### <i>TensorFlow beats PyTorch in visualization capabilities and deploying trained models. Go for PyTorch if you want flexibility, debugging capabilities, and short training duration</i>
+ ###### <i>TensorFlow beats PyTorch in visualization capabilities and deploying trained models. Go for PyTorch if you want flexibility, debugging capabilities, and short training duration.</i>
 
 **3. PyTorch**<br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch (UC Berkeley - Youtube) - Lec3 (The 5 parts)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
