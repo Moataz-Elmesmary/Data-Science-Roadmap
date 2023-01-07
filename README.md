@@ -230,28 +230,33 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
         &emsp;&emsp;&emsp; [fast.ai's Deep Learning Courses](https://www.fast.ai/)<br>
 
-**3. Advanced Data Science**<br>
+**3. Pytorch**<br>
+        &emsp;&emsp;&emsp;:video_camera: [Pytorch (UC Berkeley) - Lec3 (The 5 parts)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
+        &emsp;&emsp;&emsp;:video_camera: [PyTorch Course (2022)](https://www.youtube.com/watch?v=v43SlgBcZ5Y&list=PLkdGijFCNuVk9fO1IMfdV1Igob0FUHhkB)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Pytorch - Dr. Data Science](https://www.youtube.com/watch?v=vVQs4h6HUvA&list=PLLeO8f6PhlKb_FAC7qxOBtxT9-8EPDAqk)<br>
+
+**4. Advanced Data Science**<br>
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
-**4. NLP** <br>
+**5. NLP** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Ahmed El Sallab](https://www.youtube.com/playlist?list=PLxmZ0b-n395VxzEUL8-Dy257zSqYZe4yU)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 
-**5. Inferential Statistics** <br>
+**6. Inferential Statistics** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
         &emsp;&emsp;&emsp;:video_camera: [course](https://www.coursera.org/learn/statistical-inferences)<br>
-**6. Bayesian Statistics**<br>
+**7. Bayesian Statistics**<br>
         &emsp;&emsp;&emsp;:video_camera: [1 - From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)<br>
         &emsp;&emsp;&emsp;:video_camera: [2 - Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
         &emsp;&emsp;&emsp;:video_camera: [3 - Mixture Models](https://www.coursera.org/learn/mixture-models)<br>
-**7. Model Deployment** <br>
+**8. Model Deployment** <br>
         &emsp;&emsp;&emsp;:closed_book: [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
         &emsp;&emsp;&emsp;:video_camera: [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
         &emsp;&emsp;&emsp;:video_camera: [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
         &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
         &emsp;&emsp;&emsp;if you`re intersted in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
 
-**8. Probabilistic Graphical Models** <br>       
+**9. Probabilistic Graphical Models** <br>       
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 ***
 
