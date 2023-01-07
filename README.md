@@ -228,9 +228,9 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 **2. Tensorflow**<br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)<br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
-        &emsp;&emsp;&emsp; [fast.ai's Deep Learning Courses](https://www.fast.ai/)<br>
-
-**3. PyTorch**<br>
+        &emsp;&emsp;&emsp; [fast.ai's Deep Learning Courses](https://www.fast.ai/)<br> 
+ ##### <i>&emsp;&emsp;&emsp;TensorFlow beats PyTorch in visualization capabilities and deploying trained models.</i>
+**3. PyTorch** <br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch (UC Berkeley - Youtube) - Lec3 (The 5 parts)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch - Dr. Data Science - Youtube](https://www.youtube.com/watch?v=vVQs4h6HUvA&list=PLLeO8f6PhlKb_FAC7qxOBtxT9-8EPDAqk)<br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch Course (2022) - Youtube](https://www.youtube.com/watch?v=v43SlgBcZ5Y&list=PLkdGijFCNuVk9fO1IMfdV1Igob0FUHhkB)<br>
