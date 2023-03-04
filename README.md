@@ -157,6 +157,7 @@ Note: it's already mentioned in the above probability course <br>
 ## :beginner: Intermediate :beginner:
 
 **1. Math for ML**: consists of Linear Algebra, Calculus and PCA. <br>
+:video_camera: [Mathematics for Machine Learning and Data Science - Andrew Ng](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAUtSWUJXKyTY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3117765&utm_content=b2c#courses)<br>
 :video_camera: [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>
 :video_camera: [Mathematics for Machine Learning - Most of the needed basics](https://www.youtube.com/watch?v=vLJcduC4lBM&list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)<br><br>
 :small_blue_diamond:Linear Algebra<br>
