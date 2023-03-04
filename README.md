@@ -1,6 +1,6 @@
 ![photo_2022-04-20_03-18-03](https://user-images.githubusercontent.com/92026137/164127639-38317783-8c5e-4b85-acf5-3d6bd6dbf9c0.jpg)
 <h2>&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2023 </h2>
-
+ 
 ### Data Science Roadmap for anyone interested in how to break into the field!
 
 <h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.</i></h4><br>
@@ -157,6 +157,7 @@ Note: it's already mentioned in the above probability course <br>
 ## :beginner: Intermediate :beginner:
 
 **1. Math for ML**: consists of Linear Algebra, Calculus and PCA. <br>
+:video_camera: [Mathematics for Machine Learning and Data Science - Andrew Ng](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAUtSWUJXKyTY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3117765&utm_content=b2c#courses)<br>
 :video_camera: [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>
 :video_camera: [Mathematics for Machine Learning - Most of the needed basics](https://www.youtube.com/watch?v=vLJcduC4lBM&list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)<br><br>
 :small_blue_diamond:Linear Algebra<br>
@@ -171,7 +172,7 @@ Note: it's already mentioned in the above probability course <br>
 
 
 **2. Machine Learning**<br>
-         &emsp;&emsp;&emsp;:video_camera: [Coursera Free Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Coursera - Old Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)<br>
          &emsp;&emsp;&emsp;:video_camera: [Coursera Andrew`s new ML Specialization (Python)](https://www.coursera.org/specializations/machine-learning-introduction?_hsenc=p2ANqtz-_R9x3Nm07uCw6YAw9VpCpdjRdfaUFyxdOcvgDljRt7j_NXiahN1plnI_Ob9jn0jSNipuE_Y08llrfPSt_1P7EBvj4LuImpBTKG3bsR6Z9bzjzBoRY&_hsmi=216611333&action=enroll&utm_campaign=mls-launch-2022&utm_content=216613012&utm_medium=email&utm_source=hs_email#courses)<br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)<br>
