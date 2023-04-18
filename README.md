@@ -69,6 +69,7 @@ more interesting bits.</i><br>
 &emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
 &emsp;&emsp;&emsp;:closed_book: Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
+&emsp;&emsp;&emsp;:video_camera: [StatQuest Statistcs fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)++<br>
 &emsp;&emsp;&emsp;:closed_book: [Practical Statistics for Data Scientists](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Practical%20Statistics%20for%20Data%20Scientists.pdf)<br>
 
@@ -185,6 +186,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:video_camera: [ML Algorithms in Practice](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)<br>
          &emsp;&emsp;&emsp;:video_camera: [ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
          &emsp;&emsp;&emsp;:video_camera: [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
+         &emsp;&emsp;&emsp;:video_camera: [StatQuest Machine learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)<br>
 
 **3. Web Scraping/APIs**<br>
          &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/web-scraping-with-python)<br>
