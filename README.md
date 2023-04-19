@@ -123,15 +123,16 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 
 **10. Dashboards**<br>
- &emsp;*Tableau*<br>
-        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-        &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
-        &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+
 &emsp;*Power BI*<br>
         &emsp;&emsp;&emsp;:video_camera: [Power BI Desktop - Coursera](https://www.coursera.orghttps://powerbi.microsoft.com/en-us/learning//projects/power-bi-desktop)<br>
         &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
-
+ &emsp;*Tableau*<br>
+        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
+        &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
+        &emsp;&emsp;&emsp;:video_camera: [course - datacamp](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Simplilearn - Youtube](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
 
 
 **11. SQL and DB**<br>
