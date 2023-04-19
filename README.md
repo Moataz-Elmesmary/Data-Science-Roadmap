@@ -267,13 +267,16 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 ***
 
-**More Tasks and Projects will be added soon.** :hourglass_flowing_sand:	<br>
+### :pushpin:PROJECTS :arrow_double_down:<br>
 &emsp;&emsp;&emsp;:movie_camera:[Deena Gergis - End to end Project](https://www.youtube.com/playlist?list=PLatl6hdtJ0RnbkReSAuel6PeCPO155FpG)<br>
+&emsp;&emsp;&emsp;:movie_camera:[Machine Learning Projects - Youtube](https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)<br>
 &emsp;&emsp;&emsp;:computer:[Top 10 Data Science Projects for Beginners](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)<br>
 &emsp;&emsp;&emsp;:computer:[12 Data Science Projects for Beginners and Experts](https://builtin.com/data-science/data-science-projects)<br>
 &emsp;&emsp;&emsp;:computer:[Data Science Projects & Ideas](https://nevonprojects.com/data-science-projects-solutions/)<br>
 &emsp;&emsp;&emsp;:computer:[Top 310+ Machine Learning Projects for 2023](https://data-flair.training/blogs/machine-learning-project-ideas/)<br>
 &emsp;&emsp;&emsp;:computer:[10 End-to-End Guided Data Science Projects](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9)<br>
+&emsp;&emsp;&emsp;:movie_camera:[Real-World ML Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)<br>
+&emsp;&emsp;&emsp;:movie_camera:[End To End ML Project With Dockers,Github Actions And Deployment](https://www.youtube.com/watch?v=MJ1vWb1rGwM)<br>
 &emsp;&emsp;&emsp;:computer:[Python Codes in Data Science](https://github.com/RubensZimbres/Repo-2017/)<br>
 ***
 
