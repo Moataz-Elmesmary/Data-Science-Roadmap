@@ -64,7 +64,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 more interesting bits.</i><br>
 [Specializations (data structures-algorithms)](https://www.coursera.org/specializations/data-structures-algorithms)
 
-**1. Descriptive Stats.** <br>
+**1. Descriptive Statistics** <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
 &emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals - StatQuest - Youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
@@ -78,7 +78,15 @@ more interesting bits.</i><br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
 &emsp;&emsp;&emsp;:closed_book: [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)<br>
 
-**3. Python**<br>
+**3. Programming Languages**<br>
+
+&emsp;:small_blue_diamond:*R* - *good tool for visualization and statistical analysis.*<br>
+        &emsp;&emsp;&emsp;:video_camera: [Introduction to R (Datacamp)](https://www.datacamp.com/courses/free-introduction-to-r)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Data Science Specialization - coursera](https://www.coursera.org/specializations/jhu-data-science)<br>
+        &emsp;&emsp;&emsp;:closed_book: [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)<br>
+        &emsp;&emsp;&emsp;:closed_book: [R for Data Science](https://r4ds.had.co.nz/)<br>
+
+&emsp;:small_blue_diamond:*Python*:100: <br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
         &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
         &emsp;&emsp;&emsp;:video_camera: Arabic - [Hassouna](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep) | [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)<br>
