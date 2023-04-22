@@ -244,7 +244,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
  ###### <i>TensorFlow beats PyTorch in visualization capabilities and deploying trained models. Go for PyTorch if you want flexibility, debugging capabilities, and short training duration.</i>
 
 **3. PyTorch**<br>
-        &emsp;&emsp;&emsp;:video_camera: [PyTorch (UC Berkeley - Youtube) - Lec3 (The 5 parts)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)<br>
+        &emsp;&emsp;&emsp;:video_camera: [PyTorch (UC Berkeley - Youtube) - Lec3 (The 5 parts)](https://m.youtube.com/watch?v=AOypIa_8RXg&list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH&index=11)<br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch - Dr. Data Science - Youtube](https://www.youtube.com/watch?v=vVQs4h6HUvA&list=PLLeO8f6PhlKb_FAC7qxOBtxT9-8EPDAqk)<br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch Course (2022) - Youtube](https://www.youtube.com/watch?v=v43SlgBcZ5Y&list=PLkdGijFCNuVk9fO1IMfdV1Igob0FUHhkB)<br>
         &emsp;&emsp;&emsp;:closed_book: [Deep Learning With Pytorch](https://drive.google.com/file/d/1-KG_ufeg7zw2iLgG5RrJSFpyonLwulgF/view?usp=sharing)<br>
