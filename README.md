@@ -246,8 +246,10 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 **3. PyTorch**<br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch (UC Berkeley - Youtube) - Lec3 (The 5 parts)](https://m.youtube.com/watch?v=AOypIa_8RXg&list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH&index=11)<br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch - Dr. Data Science - Youtube](https://www.youtube.com/watch?v=vVQs4h6HUvA&list=PLLeO8f6PhlKb_FAC7qxOBtxT9-8EPDAqk)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Pytorch Tutorial - Aladdin - Youtube](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)<br>
         &emsp;&emsp;&emsp;:video_camera: [PyTorch Course (2022) - Youtube](https://www.youtube.com/watch?v=v43SlgBcZ5Y&list=PLkdGijFCNuVk9fO1IMfdV1Igob0FUHhkB)<br>
         &emsp;&emsp;&emsp;:closed_book: [Deep Learning With Pytorch](https://drive.google.com/file/d/1-KG_ufeg7zw2iLgG5RrJSFpyonLwulgF/view?usp=sharing)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Machine Learning with PyTorch and Scikit-Learn -2022](https://dl.ebooksworld.ir/books/Machine.Learning.with.PyTorch.and.Scikit-Learn.Sebastian.Raschka.Packt.9781801819312.EBooksWorld.ir.pdf)<br>
 
 **4. Advanced Data Science**<br>
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
