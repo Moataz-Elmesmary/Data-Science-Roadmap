@@ -207,7 +207,7 @@ APIs <br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
 **4. Stats.**<br>
          &emsp;&emsp;&emsp;:closed_book: [This stats - Book](https://greenteapress.com/thinkstats/thinkstats.pdf)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Think Bayes - Book](https://b-ok.africa/book/2737587/ab97d5)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Think Bayes - Book](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf)<br>
 **5. Advanced SQL**<br>
          &emsp;&emsp;&emsp;:video_camera: [More advanced SQL](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
          &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
