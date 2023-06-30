@@ -288,6 +288,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 &emsp;&emsp;&emsp;:movie_camera:[Real-World ML Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)<br>
 &emsp;&emsp;&emsp;:movie_camera:[End To End ML Project With Dockers,Github Actions And Deployment](https://www.youtube.com/watch?v=MJ1vWb1rGwM)<br>
 &emsp;&emsp;&emsp;:computer:[Python Codes in Data Science](https://github.com/RubensZimbres/Repo-2017/)<br>
+&emsp;&emsp;&emsp;:computer:[12 free Data Science projects to practice Python and Pandas (resolve interactive online)](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)<br>
 ***
 
 ### :pushpin: Common Tools :arrow_heading_down:<br>
