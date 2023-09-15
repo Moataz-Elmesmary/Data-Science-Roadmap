@@ -259,6 +259,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Ahmed El Sallab](https://www.youtube.com/playlist?list=PLxmZ0b-n395VxzEUL8-Dy257zSqYZe4yU)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
+&emsp;:small_orange_diamond:*LLMS [What`s Large Language Models](https://www.snowflake.com/guides/what-large-language-model-and-what-can-llms-do-data-science)?* <br>
+        &emsp;&emsp;&emsp;:video_camera: [Generative AI with llms](https://www.deeplearning.ai/courses/generative-ai-with-llms/)<br>
 
 **6. Inferential Statistics** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
