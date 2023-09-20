@@ -415,7 +415,10 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
 ***
-<details><summary>:file_folder: <h4>CV / Resumes :memo: </h4>
+<details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;&emsp;&emsp;&emsp;
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=فاكرني+هسيبك+تهبده+؟؟&size=17">
 </summary>
   
 - [Common mistakes by Yehia Arafa Mostafa](https://www.facebook.com/yehia.arafa.mostafa/posts/110086229517000)<br>
@@ -429,14 +432,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;&emsp;:video_camera:[Video 1](https://www.youtube.com/watch?v=R0hsJiNxdDE)<br>
 &emsp;&emsp;:video_camera:[Video 2](https://www.youtube.com/watch?v=CrTO0hrC-zQ)
 </details>
-<p align="center" color="red">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75"><p align="center" color="red">
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=فاكرني+هسيبك+تهبده+؟؟&center=true&size=13">
-  </a>
-</p>
- 
+<br>
+
 ***
 :pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt) &emsp; - &emsp; [<i>AI/ML Driven Companies In Egypt</i>](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
 ***
@@ -446,7 +443,4 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 <a href="https://www.facebook.com/MoatazElmesmary/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/MoatazElmesmary" title="twitter"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2F%3Flabel%3Dtwitter%26style%3Dsocial"/></a>
 <a href="https://www.linkedin.com/in/MoatazElmesmary/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a><h1 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Show+Some+❤️;By+Starring⭐️+This+Repo;I+Keep+It+Up-To-Date;لاڤ+يو+أول)](https://git.io/typing-svg)
-</h1>
-  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Show+Some+❤️;By+Starring+This+Repo⭐️;I+Keep+It+Up-To-Date;لاڤ+يو+أول)](https://git.io/typing-svg)</h1>
