@@ -289,6 +289,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 :star2:	<i>Read these books, they will be beneficial to you.</i><br>
 &emsp; :open_book: [Bayesian Reasoning and Machine Learning](https://drive.google.com/file/d/18fh0orqSNAaIyhLkVwh9cGuWBywCBbuw/view?usp=sharing)<br>
 &emsp; :open_book: [The Elements of Statistical Learning](https://drive.google.com/file/d/1ePRkuB9Zm5Fkw-1-VG8prQXfj8pI6dWX/view?usp=sharing)<br>
+&emsp; :open_book: [Pattern Recognition and Machine Learning - Bishop](https://drive.google.com/file/d/1QkQj_azL6O7qUzshB8lPzueYWj0TRwEu/view?usp=sharing) (Advanced)<br>
 ##### &emsp;&emsp; <i> Recommended by [Eng.Mohamed Hammad](https://www.linkedin.com/posts/mohamed-hammad-a720a622_%D9%83%D8%AA%D8%A7%D8%A8-%D9%83%D9%84-%D9%85%D8%B1%D9%87-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC%D9%87-%D9%88%D8%A7%D8%B1%D8%AC%D8%B9%D9%84%D9%87-%D8%A7%D8%A8%D9%82%D9%8A-%D8%B9%D8%A7%D9%88%D8%B2-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-activity-7080526619525693441-nNn0?utm_source=share&utm_medium=member_desktop).</i> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
 ***
 
