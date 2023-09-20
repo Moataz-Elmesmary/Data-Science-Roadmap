@@ -257,8 +257,9 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
         
 **5. NLP** <br>
-        &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Ahmed El Sallab](https://www.youtube.com/playlist?list=PLxmZ0b-n395VxzEUL8-Dy257zSqYZe4yU)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Stanford CS224N - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=k91y-bepIiPjHMrj&fbclid=IwAR2h6KcYboHCjG9YBIEB08srgYSesqZ5UHXr0ni8yxOqrxNV3-_TGxq0Csg)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 &emsp;:small_orange_diamond:*LLMS [What`s Large Language Model](https://www.snowflake.com/guides/what-large-language-model-and-what-can-llms-do-data-science)?* <br>
         &emsp;&emsp;&emsp;:video_camera: [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)<br>
