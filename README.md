@@ -285,7 +285,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-:star2:	<i>Read these books, they will be beneficial to you</i><br>
+:star2:	<i>Read these books, they will be beneficial to you.</i><br>
 &emsp; :open_book: [Bayesian Reasoning and Machine Learning](https://drive.google.com/file/d/18fh0orqSNAaIyhLkVwh9cGuWBywCBbuw/view?usp=sharing)<br>
 &emsp; :open_book: [The Elements of Statistical Learning](https://drive.google.com/file/d/1ePRkuB9Zm5Fkw-1-VG8prQXfj8pI6dWX/view?usp=sharing)<br>
 ##### &emsp;&emsp; <i> Recommended by [Eng.Mohamed Hammad](https://www.linkedin.com/posts/mohamed-hammad-a720a622_%D9%83%D8%AA%D8%A7%D8%A8-%D9%83%D9%84-%D9%85%D8%B1%D9%87-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC%D9%87-%D9%88%D8%A7%D8%B1%D8%AC%D8%B9%D9%84%D9%87-%D8%A7%D8%A8%D9%82%D9%8A-%D8%B9%D8%A7%D9%88%D8%B2-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-activity-7080526619525693441-nNn0?utm_source=share&utm_medium=member_desktop).</i> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
@@ -372,7 +372,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 21. [Machine Learning Cheat Sheets (Recommended Guide)](https://drive.google.com/file/d/1rQRJvWk5s9rUCesri0apxutbF4eDHR69/view?usp=sharing) *راجع المواضيع اللي في الشيت دي يا عزيزي وشوف اللي ناقصك* </details> 
 ***
 
-### The best way to practice is to take part in competitions.:trophy: :trophy:	<br>
+### The best way to practice is to take part in competitions. <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px"><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px">	<br>
 **Competitions will make you even more proficient in Data Science.**<br>
 When we talk about top data science competitions, [**Kaggle**](https://www.kaggle.com/) is one of the most popular platforms for data science. Kaggle has a lot of competitions where you can participate according to your knowledge level.<br>
 
