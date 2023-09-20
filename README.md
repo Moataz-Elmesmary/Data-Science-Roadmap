@@ -185,6 +185,7 @@ Note: it's already mentioned in the above probability course <br>
 **2. Machine Learning**<br>
          &emsp;&emsp;&emsp;:video_camera: [Coursera - Old Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)<br>
          &emsp;&emsp;&emsp;:video_camera: [Coursera Andrew`s new ML Specialization (Python)](https://www.coursera.org/specializations/machine-learning-introduction?_hsenc=p2ANqtz-_R9x3Nm07uCw6YAw9VpCpdjRdfaUFyxdOcvgDljRt7j_NXiahN1plnI_Ob9jn0jSNipuE_Y08llrfPSt_1P7EBvj4LuImpBTKG3bsR6Z9bzjzBoRY&_hsmi=216611333&action=enroll&utm_campaign=mls-launch-2022&utm_content=216613012&utm_medium=email&utm_source=hs_email#courses)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning - StatQuest - YouTube](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)<br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)<br>
          &emsp;&emsp;&emsp;:video_camera: [SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT)<br>
