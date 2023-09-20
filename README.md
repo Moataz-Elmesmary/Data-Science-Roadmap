@@ -426,7 +426,14 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;&emsp;:video_camera:[Video 1](https://www.youtube.com/watch?v=R0hsJiNxdDE)<br>
 &emsp;&emsp;:video_camera:[Video 2](https://www.youtube.com/watch?v=CrTO0hrC-zQ)
 </details>
-  
+<p align="center" color="red">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75"><p align="center" color="red">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=فاكرني+هسيبك+تهبده+؟؟&center=true&size=13">
+  </a>
+</p>
+ 
 ***
 :pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt) &emsp; - &emsp; [<i>AI/ML Driven Companies In Egypt</i>](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
 *** 
