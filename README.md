@@ -362,7 +362,9 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 19. [Tensorflow Cheat Sheet](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf)
 
-20. [Machine Learning Test Cheat Sheet](https://www.cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/)</details> 
+20. [Machine Learning Test Cheat Sheet](https://www.cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/)
+
+21. [Machine Learning Cheat Sheets (Recommended Guide)](https://drive.google.com/file/d/1rQRJvWk5s9rUCesri0apxutbF4eDHR69/view?usp=sharing)</details> 
 ***
 
 ### The best way to practice is to take part in competitions.:trophy: :trophy:	<br>
