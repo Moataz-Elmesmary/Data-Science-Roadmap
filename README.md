@@ -439,11 +439,14 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
  
 ***
 :pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt) &emsp; - &emsp; [<i>AI/ML Driven Companies In Egypt</i>](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
-*** 
+***
+
 ## Contact Me :iphone:	 <br>
   
 <a href="https://www.facebook.com/MoatazElmesmary/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/MoatazElmesmary" title="twitter"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2F%3Flabel%3Dtwitter%26style%3Dsocial"/></a>
-<a href="https://www.linkedin.com/in/MoatazElmesmary/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/MoatazElmesmary/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a><h1 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Show+Some+❤️;By+Starring⭐️+This+Repo;I+Keep+It+Up-To-Date;لاڤ+يو+أول)](https://git.io/typing-svg)
+</h1>
   
 
