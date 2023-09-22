@@ -437,7 +437,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 :pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt) &emsp; - &emsp; [<i>AI/ML Driven Companies In Egypt</i>](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
 ***
 
-## Contact Me :iphone:	 <br>
+<h2>Contact Me :iphone:</h2> 	 <br>
   
 <a href="https://www.facebook.com/MoatazElmesmary/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/MoatazElmesmary" title="twitter"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2F%3Flabel%3Dtwitter%26style%3Dsocial"/></a>
