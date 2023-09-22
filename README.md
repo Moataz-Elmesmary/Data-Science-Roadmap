@@ -415,7 +415,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
 ***
-<details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;&emsp;
+<details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=فاكرني+هسيبك+تهبده+؟؟&size=17">
