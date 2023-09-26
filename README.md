@@ -133,9 +133,9 @@ Note: it's already mentioned in the above probability course <br>
 **10. Dashboards**<br>
 
 &emsp;*Power BI*<br>
-        &emsp;&emsp;&emsp;:video_camera: [Power BI - Alex - Youtube](https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&si=pR4VSrR1P2O-AaBJ)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Power BI - Youtube (Alex)](https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&si=pR4VSrR1P2O-AaBJ)<br>
         &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Arabic - Zanoon - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube (Zanoon)](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
  &emsp;*Tableau*<br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
