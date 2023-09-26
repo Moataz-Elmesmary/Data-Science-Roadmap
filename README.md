@@ -133,8 +133,9 @@ Note: it's already mentioned in the above probability course <br>
 **10. Dashboards**<br>
 
 &emsp;*Power BI*<br>
-        &emsp;&emsp;&emsp;:video_camera: [Power BI Desktop - Coursera](https://www.coursera.orghttps://powerbi.microsoft.com/en-us/learning//projects/power-bi-desktop)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Power BI - Alex - Youtube](https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&si=pR4VSrR1P2O-AaBJ)<br>
         &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Arabic - Zanoon - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
  &emsp;*Tableau*<br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
@@ -147,7 +148,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:video_camera: SQL for Data Analysis ([simplilearn](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) or [Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198))<br>
          &emsp;&emsp;&emsp;:video_camera: [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM (SQL for Data Science)](https://www.coursera.org/learn/sql-data-science)<br>
          &emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD) -- [Arabic-ITI](https://www.youtube.com/watch?v=QJHy89zMvj8&list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA&index=1)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD) -- [Arabic-ITI by Eng.Ramy](https://www.youtube.com/watch?v=QJHy89zMvj8&list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA&index=1)<br>
          &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
          &emsp;&emsp;&emsp;:video_camera: [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
          &emsp;&emsp;&emsp;:pencil: Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
