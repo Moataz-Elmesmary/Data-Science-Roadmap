@@ -401,19 +401,24 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 ***
 :pushpin:	**Data Analysis Recommendations.**<br>
         &emsp;&emsp;&emsp; Books (:closed_book: [The Data Analysis Workshop](https://drive.google.com/file/d/1BjKsffA2SCY0jY8OIIzgQgM0ZS7E9v_v/view?fbclid=IwAR2_GBlrX7VYoo8WCRO9R2qqrYEqtytoGrObxy1QHWcQ7sRaFjRLb0GmuxM) &
-        &emsp;:closed_book: [Head First Data Analysis](https://drive.google.com/file/d/1HXHkwrgsSJLYSeB6I0wPUXIGGnm2-HQ6/view?fbclid=IwAR27M-dlPN6o0YuZg3bXH6_DP9L2fBhkKDEkChvO4SPG-SXfkxrzuoGP5RM))<br>
+        :closed_book: [Head First Data Analysis](https://drive.google.com/file/d/1HXHkwrgsSJLYSeB6I0wPUXIGGnm2-HQ6/view?fbclid=IwAR27M-dlPN6o0YuZg3bXH6_DP9L2fBhkKDEkChvO4SPG-SXfkxrzuoGP5RM))<br>
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
         &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
         &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
         &emsp;&emsp;&emsp; [Google Advanced Data Analytics Professional Certificate :new:](https://www.coursera.org/professional-certificates/google-advanced-data-analytics?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAQlBwwJ21EwA0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)<br>
         &emsp;&emsp;&emsp;*Note: A good knowledge & projects in just [Excel](https://www.coursera.org/learn/excel-basics-data-analysis-ibm), SQL & Power BI / Tableau can bring you great opportunities*<br>
-        &emsp;&emsp;&emsp;&emsp;&emsp;- Excel More Resources: ([Arabic 1:video_camera:](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Arabic 2:video_camera:](https://www.youtube.com/watch?v=uRs8_EJqTFo&list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&pp=iAQB) - [Books :closed_book: and cheat sheets for revising](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;- Excel More Resources: ([Arabic 1:video_camera:](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Arabic 2:video_camera:](https://www.youtube.com/watch?v=uRs8_EJqTFo&list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&pp=iAQB) - [Books :page_facing_up: and cheat sheets for revising](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-  
 :pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
+        &emsp;&emsp;&emsp; Books (:closed_book: [Fundamentals of Data Engineering](https://drive.google.com/file/d/1CbQFN0Lw8o6v4KlF64LsCyaooMccT45T/view?usp=sharing) &
+        :closed_book: [Designing Data-Intensive Applications](https://drive.google.com/file/d/1CrzA--WWNcxxQwLqzg1yPfiI3FaEo49z/view?usp=sharing))<br>
+        &emsp;&emsp;&emsp; For Arab, I recommend 2 YouTube Channels: ([Garage Education](https://www.youtube.com/@GarageEducation) & [Big Data بالعربي](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE))<br> 
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
+        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Data Warehouse, Hadoop can bring you great opportunities. Start with them then go for the other tools and concepts*<br>
 ***
 <details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
