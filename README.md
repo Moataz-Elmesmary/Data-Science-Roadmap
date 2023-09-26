@@ -148,8 +148,8 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:video_camera: SQL for Data Analysis ([simplilearn](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) or [Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198))<br>
          &emsp;&emsp;&emsp;:video_camera: [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM (SQL for Data Science)](https://www.coursera.org/learn/sql-data-science)<br>
          &emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD) -- [Arabic-ITI by Eng.Ramy](https://www.youtube.com/watch?v=QJHy89zMvj8&list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA&index=1)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)<br>
+         &emsp;&emsp;&emsp;:video_camera: [ITI by Eng.Ramy](https://www.youtube.com/watch?v=QJHy89zMvj8&list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA&index=1) *Advanced* - [[Course Materials]](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)<br>
          &emsp;&emsp;&emsp;:video_camera: [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
          &emsp;&emsp;&emsp;:pencil: Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
 
@@ -212,8 +212,9 @@ APIs <br>
          &emsp;&emsp;&emsp;:closed_book: [This stats - Book](https://greenteapress.com/thinkstats/thinkstats.pdf)<br>
          &emsp;&emsp;&emsp;:closed_book: [Think Bayes - Book](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf)<br>
 **5. Advanced SQL**<br>
+         &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL - DataCamp](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Intermediate SQL - DataCamp](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
          &emsp;&emsp;&emsp;:video_camera: [More advanced SQL](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
 
 **7. Feature Engineering**<br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
