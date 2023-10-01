@@ -409,7 +409,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
         &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
         &emsp;&emsp;&emsp; [Google Advanced Data Analytics Professional Certificate :new:](https://www.coursera.org/professional-certificates/google-advanced-data-analytics?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAQlBwwJ21EwA0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)<br>
-        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in just [Excel](https://www.coursera.org/learn/excel-basics-data-analysis-ibm), SQL & Power BI / Tableau can bring you great opportunities*<br>
+        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in just [Excel](https://www.coursera.org/learn/excel-basics-data-analysis-ibm), SQL & Power BI / Tableau can bring you great opportunities*.<br>
         &emsp;&emsp;&emsp;&emsp;&emsp;- Excel More Resources: ([Arabic 1:video_camera:](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Arabic 2:video_camera:](https://www.youtube.com/watch?v=uRs8_EJqTFo&list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&pp=iAQB) - [Books :page_facing_up: and cheat sheets for revising](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -422,7 +422,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
-        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Data Warehouse, Hadoop/Apache Spark can bring you great opportunities. Start with them then go for the other tools and concepts*<br>
+        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Hadoop/Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools and concepts*.<br>
 ***
 <details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
