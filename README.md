@@ -190,6 +190,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)<br>
          &emsp;&emsp;&emsp;:video_camera: [SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning for Engineers 2022](https://apmonitor.com/pds/) / ([YouTube](https://www.youtube.com/watch?v=Gh5rbBLh4JY&list=PLLBUgWXdTBDg1K1bu60lHypSzSP-WSBmx))<br>
          &emsp;&emsp;&emsp;:video_camera: [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)<br>
          &emsp;&emsp;&emsp;:video_camera: [Hesham Asem - Arabic content](https://www.youtube.com/c/HeshamAsem/playlists)<br>
          &emsp;&emsp;&emsp;:video_camera: [IBM ML with Python](https://www.coursera.org/learn/machine-learning-with-python)<br>
@@ -262,7 +263,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 **5. NLP** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Ahmed El Sallab](https://www.youtube.com/playlist?list=PLxmZ0b-n395VxzEUL8-Dy257zSqYZe4yU)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Stanford CS224N - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=k91y-bepIiPjHMrj&fbclid=IwAR2h6KcYboHCjG9YBIEB08srgYSesqZ5UHXr0ni8yxOqrxNV3-_TGxq0Csg)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Stanford CS224N Lectures - Winter 2021- YouTube](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=k91y-bepIiPjHMrj&fbclid=IwAR2h6KcYboHCjG9YBIEB08srgYSesqZ5UHXr0ni8yxOqrxNV3-_TGxq0Csg)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Stanford XCS224U Lectures - Spring 2021- YouTube](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=k91y-bepIiPjHMrj&fbclid=IwAR2h6KcYboHCjG9YBIEB08srgYSesqZ5UHXr0ni8yxOqrxNV3-_TGxq0Csg)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 &emsp;:small_orange_diamond:*LLMS [What`s Large Language Model](https://www.snowflake.com/guides/what-large-language-model-and-what-can-llms-do-data-science)?* <br>
         &emsp;&emsp;&emsp;:video_camera: [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)<br>
@@ -287,7 +289,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:closed_book: [Practical MLOps](https://drive.google.com/file/d/17RhXQ2ix6rFMaas3HI7bnM_GL8lS7u3f/view?usp=sharing)<br>
 **10. Probabilistic Graphical Models**    
         &emsp;&emsp;&emsp;:video_camera: [Specialization - Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Spring 2016, University of Utah - YouTube](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Spring 2016, University of Utah - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)<br>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
