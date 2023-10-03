@@ -422,7 +422,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
-        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Hadoop/Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools and concepts*.<br>
+        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)/Hadoop, Data Modeling and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools,concepts and cloud platforms*.<br>
 ***
 <details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
