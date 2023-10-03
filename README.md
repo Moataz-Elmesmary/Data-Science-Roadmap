@@ -286,7 +286,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:link: [MLOps-guide](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md)<br>
         &emsp;&emsp;&emsp;:closed_book: [Practical MLOps](https://drive.google.com/file/d/17RhXQ2ix6rFMaas3HI7bnM_GL8lS7u3f/view?usp=sharing)<br>
 **10. Probabilistic Graphical Models**    
-        &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Specialization - Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Spring 2016, University of Utah - YouTube](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
