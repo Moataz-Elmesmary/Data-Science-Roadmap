@@ -268,6 +268,11 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 &emsp;:small_orange_diamond:*LLMS [What`s Large Language Model](https://www.snowflake.com/guides/what-large-language-model-and-what-can-llms-do-data-science)?* <br>
         &emsp;&emsp;&emsp;:video_camera: [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)<br>
+        &emsp;&emsp;&emsp;:video_camera: [LLM Foundations](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)<br>
+        &emsp;&emsp;&emsp;:video_camera: How ChatGPTs / Transformers work?[1](https://www.youtube.com/watch?v=bQ5BoolX9Ag) - [2](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) - [3](https://jalammar.github.io/illustrated-transformer/) *overview & Maths behind*<br>
+        &emsp;&emsp;&emsp;:video_camera: [Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/) *If you want to get the most out of LLMs*<br>
+        &emsp;&emsp;&emsp;:video_camera: [LLMOps](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/) *A Lec going through the entire LLM pipeline*<br>
+
 
 **6. Inferential Statistics** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
