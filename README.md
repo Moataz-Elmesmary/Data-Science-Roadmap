@@ -156,7 +156,8 @@ Note: it's already mentioned in the above probability course <br>
 **12. Python Regular Expression**<br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
 **13. Time Series Analysis**<br>
-         &emsp;&emsp;&emsp;:video_camera: [Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Track - DataCamp](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Course - Coursera](https://www.coursera.org/learn/practical-time-series-analysis)<br>
          &emsp;&emsp;&emsp;:closed_book: [Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
          &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;:video_camera: Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
