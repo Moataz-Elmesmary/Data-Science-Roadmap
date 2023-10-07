@@ -260,9 +260,13 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 **4. Advanced Data Science**<br>
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm) *Includes Apache Spark*<br>
-&emsp;:x:*Advanced ML Topics🧠 | Lecs (YouTube)* <br>
+&emsp;☠️*Advanced ML Topics🧠 | Lecs (YouTube)* <br>
         &emsp;&emsp;&emsp;:video_camera: [Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) - [Materials](https://cs330.stanford.edu/)<br>
         &emsp;&emsp;&emsp;:video_camera: [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)<br>
+&emsp;☠️*ML based Computer Vision | Lecs (YouTube)* <br>
+        &emsp;&emsp;&emsp;:video_camera: [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)<br>
+        &emsp;&emsp;&emsp;:video_camera: [NOC:Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108105103)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Deep Learning for Computer Vision - Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)<br>
 
 **5. NLP** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing)<br>
