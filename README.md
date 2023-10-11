@@ -54,7 +54,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 ## Legend
 * :video_camera: Video Content
 * :closed_book: Online Article Content / Book
-### :bulb: Roadmap Explanation :arrow_forward: [Youtube Video](https://youtu.be/HbIPJuvzRLk) :movie_camera:
+### :bulb: Roadmap Explanation :arrow_forward: [Youtube Video](https://youtu.be/HbIPJuvzRLk) :movie_camera:<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
 
 ***
 
