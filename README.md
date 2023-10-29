@@ -422,7 +422,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 <details><summary>🎧<b>Data Science Podcasts: 🎙️</b><br> <i>The Best Way to Stay Up-to-Date on the Latest Data Science Trends and Developments</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
 
 </summary>
-  
+<br>
+
 Podcasts  | About      
 -- | ---------------------------
 [Data Science at Home](https://datascienceathome.com/)|A podcast that provides practical advice and tutorials on data science topics.
@@ -440,7 +441,17 @@ Podcasts  | About
 [The Data Engineering Show](https://www.dataengineeringshow.com/)|For data engineering and BI practitioners to go beyond theory, and learn from the biggest influencers in tech about their practical day to day data challenges.
 [DataTalks.Club](https://podcasters.spotify.com/pod/show/datatalksclub)|A weekly online community of data enthusiasts and practitioners that learn from each other and share their knowledge and experiences through meetups, workshops, and a podcast.
 [Datacast](https://jameskle.com/writes/category/Datacast)|Top data scientists and practitioners in the data and AI infrastructure space. The podcast is hosted by James Le.
+[How to Get an Analytics Job Podcast](https://www.youtube.com/playlist?list=PLBvzkZLydYX0D28bbnfRCV6M4zMQrhXsd)|A great resource for anyone who is interested in a career in analytics. The guests share their insights and advice on how to get started in analytics and how to succeed in an analytics career.
+[The Analytics Power Hour](https://analyticshour.io/)|Five awesome people, an occasional guest, and drinks all around tackling the hottest data and analytics topics of the day.
 
+<br>
+
+&emsp;&emsp;&emsp; **:eyes: Arabic Podcasts??**
+&emsp;&emsp;&emsp;&emsp;   *:trollface:شايفك ياللي زهقان في المواصلات* <br>
+&emsp;&emsp;&emsp;:movie_camera:[Arabic Data Podcast](https://www.youtube.com/@arabic_data_podcast) | [Spotify](https://open.spotify.com/show/6xo79RT4NP73wQA39TgAq1) by Eng. Kareem Abdelsalam<br>
+&emsp;&emsp;&emsp;:movie_camera:[lإلي البيانات وما بعدها](https://www.youtube.com/watch?v=3znPvz6P2oM&list=PL9yAM5pvSfU5EdppOCf-YvttRsabeAmbN) by Eng. Youssef Hosni<br>
+&emsp;&emsp;&emsp;:movie_camera:[Garage Education](https://www.youtube.com/@GarageEducation/playlists) by Eng. Mostafa Alaa<br>
+&emsp;&emsp;&emsp;:movie_camera:[Data Science بالعربي](https://www.boomplay.com/podcasts/29169)<br>
 </details>
 
 ***
