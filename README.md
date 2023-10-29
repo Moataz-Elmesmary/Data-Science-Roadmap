@@ -15,7 +15,7 @@
   
 ![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
 
-<h4><i>These terms are wrongly used interchangably among people. There are distinct differences:</i></h4>
+<h4><i>These terms are wrongly used interchangeably among people. There are distinct differences:</i></h4>
 
 | :small_orange_diamond:	**Data Science**        | :small_orange_diamond:	**Data Analytics**           | :small_orange_diamond:	**Data Engineering**           |
 | ------------- | --------------------- | -------------------- |
