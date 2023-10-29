@@ -7,7 +7,7 @@
 
 &emsp;&emsp;[Our Previous Roadmap](https://github.com/Seif-Mohamed1/DataScience-Squad) ♥️<br>
 &emsp;&emsp; :warning:	<b>*Before we start,*</b> :warning:
-#### If you Dont know What`s Data Science or Projects Life Cycle (starting from Business Understanding to Deployment) or Which Programming Language you should go for or Job Descriptions or the required Soft & Hard Skills needed for this field or Data Science Applications or the Most Common Mistakes, then<br>
+#### If you Don't know What`s Data Science or Projects Life Cycle (starting from Business Understanding to Deployment) or Which Programming Language you should go for or Job Descriptions or the required Soft & Hard Skills needed for this field or Data Science Applications or the Most Common Mistakes, then<br>
 ### :pushpin:**[This Video](https://www.youtube.com/watch?v=5zRvq7CG6Zw&t=5s) is for you (Highly Recommended :heavy_check_mark:)**
 
 
@@ -15,7 +15,7 @@
   
 ![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
 
-<h4><i>These terms are wrongly used interchangably among people. There are distinct differences:</i></h4>
+<h4><i>These terms are wrongly used interchangeably among people. There are distinct differences:</i></h4>
 
 | :small_orange_diamond:	**Data Science**        | :small_orange_diamond:	**Data Analytics**           | :small_orange_diamond:	**Data Engineering**           |
 | ------------- | --------------------- | -------------------- |
@@ -222,7 +222,7 @@ APIs <br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
          &emsp;&emsp;&emsp;:closed_book: [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
          &emsp;&emsp;&emsp;:closed_book: [Book](https://drive.google.com/file/d/1BkJYO0tqMYptTWUDQ7X0vd2aygohHRm8/view?usp=sharing)<br>
-**8. interpet Shapley-based explanations of ML models.**<br/>
+**8. interpret Shapley-based explanations of ML models.**<br/>
         &emsp;&emsp;&emsp;:closed_book: [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4>
@@ -294,7 +294,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
         &emsp;&emsp;&emsp;:video_camera: [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
         &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
-        &emsp;&emsp;&emsp;if you`re intersted in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
+        &emsp;&emsp;&emsp;if you`re interested in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
         
 **9. MLOps** : is a combination of Model Deployment, Model Serving, Model Monitoring, and Model Maintenance.       
         &emsp;&emsp;&emsp;:link: [MLOps-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)<br>
