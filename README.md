@@ -64,7 +64,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 more interesting bits.</i><br>
 [Specializations (data structures-algorithms)](https://www.coursera.org/specializations/data-structures-algorithms)
 
-**1. Descriptive Statistics** <br>
+**1. Descriptive Statistics** <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Same Course [on YouTube](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1)<br>
 &emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals - StatQuest - Youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
@@ -100,7 +100,7 @@ more interesting bits.</i><br>
         &emsp;&emsp;&emsp;:video_camera: [Data School-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
 **5. Numpy**<br>
-        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) &emsp;<img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/><br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
         &emsp;&emsp;&emsp;:closed_book: [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
@@ -137,7 +137,7 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube (Zanoon)](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
- &emsp;*Tableau*<br>
+ &emsp;*Tableau* <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/><br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
         &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
         &emsp;&emsp;&emsp;:video_camera: [course - datacamp](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
@@ -448,10 +448,10 @@ Podcasts  | About
 
 &emsp;&emsp;&emsp; **:eyes: Arabic Podcasts??**
 ###### &emsp;&emsp;&emsp;&emsp;   :trollface:شايفك ياللي زهقان في المواصلات
-&emsp;&emsp;&emsp;:movie_camera:[Arabic Data Podcast](https://www.youtube.com/@arabic_data_podcast) | [Spotify](https://open.spotify.com/show/6xo79RT4NP73wQA39TgAq1) by Eng. Kareem Abdelsalam<br>
-&emsp;&emsp;&emsp;:movie_camera:[lإلي البيانات وما بعدها](https://www.youtube.com/watch?v=3znPvz6P2oM&list=PL9yAM5pvSfU5EdppOCf-YvttRsabeAmbN) by Eng. Youssef Hosni<br>
-&emsp;&emsp;&emsp;:movie_camera:[Garage Education](https://www.youtube.com/@GarageEducation/playlists) by Eng. Mostafa Alaa<br>
-&emsp;&emsp;&emsp;:movie_camera:[Data Science بالعربي](https://www.boomplay.com/podcasts/29169)<br>
+&emsp;&emsp;&emsp;📻[Arabic Data Podcast](https://www.youtube.com/@arabic_data_podcast) | [Spotify](https://open.spotify.com/show/6xo79RT4NP73wQA39TgAq1) by Eng. Kareem Abdelsalam<br>
+&emsp;&emsp;&emsp;📻[lإلي البيانات وما بعدها](https://www.youtube.com/watch?v=3znPvz6P2oM&list=PL9yAM5pvSfU5EdppOCf-YvttRsabeAmbN) by Eng. Youssef Hosni<br>
+&emsp;&emsp;&emsp;📻[Garage Education](https://www.youtube.com/@GarageEducation/playlists) by Eng. Mostafa Alaa<br>
+&emsp;&emsp;&emsp;📻[Data Science بالعربي](https://www.boomplay.com/podcasts/29169)<br>
 </details>
 
 ***
@@ -464,7 +464,7 @@ Podcasts  | About
         &emsp;&emsp;&emsp; [Google Advanced Data Analytics Professional Certificate :new:](https://www.coursera.org/professional-certificates/google-advanced-data-analytics?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAQlBwwJ21EwA0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)<br>
         &emsp;&emsp;&emsp; [Alex The Analyst - YouTube📺](https://www.youtube.com/@AlexTheAnalyst/playlists)<br>
         &emsp;&emsp;&emsp;*Note: A good knowledge & projects in just [Excel](https://www.coursera.org/learn/excel-basics-data-analysis-ibm), SQL & Power BI / Tableau can bring you great opportunities*.<br>
-        &emsp;&emsp;&emsp;&emsp;&emsp;- Excel More Resources: ([Arabic 1:video_camera:](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Arabic 2:video_camera:](https://www.youtube.com/watch?v=uRs8_EJqTFo&list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&pp=iAQB) - [Books :page_facing_up: and cheat sheets for revising](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;-<img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> Excel More Resources: ([Arabic 1:video_camera:](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Arabic 2:video_camera:](https://www.youtube.com/watch?v=uRs8_EJqTFo&list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&pp=iAQB) - [Books :page_facing_up: and cheat sheets for revising](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
