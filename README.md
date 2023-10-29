@@ -313,7 +313,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 ##### &emsp;&emsp; <i> Recommended by [Eng.Mohamed Hammad](https://www.linkedin.com/posts/mohamed-hammad-a720a622_%D9%83%D8%AA%D8%A7%D8%A8-%D9%83%D9%84-%D9%85%D8%B1%D9%87-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC%D9%87-%D9%88%D8%A7%D8%B1%D8%AC%D8%B9%D9%84%D9%87-%D8%A7%D8%A8%D9%82%D9%8A-%D8%B9%D8%A7%D9%88%D8%B2-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-activity-7080526619525693441-nNn0?utm_source=share&utm_medium=member_desktop).</i> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
 ***
 
-### :pushpin:PROJECTS :arrow_double_down:<br>
+<h3> :pushpin:PROJECTS :arrow_double_down:</h3><br>
+
 &emsp;&emsp;&emsp;:movie_camera:[Deena Gergis - End to end Project](https://www.youtube.com/playlist?list=PLatl6hdtJ0RnbkReSAuel6PeCPO155FpG)<br>
 &emsp;&emsp;&emsp;:movie_camera:[Machine Learning Projects - Youtube](https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)<br>
 &emsp;&emsp;&emsp;:computer:[Top 10 Data Science Projects for Beginners](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)<br>
@@ -327,11 +328,11 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 ***
 
-### :pushpin: Common Tools :arrow_heading_down:<br>
+<h3>:pushpin: Common Tools :arrow_heading_down:</h3><br>
+
 &emsp;&emsp;&emsp;:closed_book:[Git](https://git-scm.com/book/en/v2)
 &emsp;&emsp;:movie_camera:[Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
 &emsp;&emsp;:movie_camera:[Arabic - Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
-&emsp;&emsp;&emsp; - [Anaconda](https://learn.datacamp.com/courses/conda-essentials)<br>
 
         
 ### :pushpin: **More Books ~ [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
@@ -416,6 +417,31 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;- [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
 &emsp;- [(6) Arabic Podcast](https://www.youtube.com/watch?v=YjloQOreudk):headphones:<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
+
+***
+<details><summary>🎧<b>Data Science Podcasts: 🎙️</b><br> <i>The Best Way to Stay Up-to-Date on the Latest Data Science Trends and Developments</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
+
+</summary>
+  
+Podcasts  | About      
+-- | ---------------------------
+[Data Science at Home](https://datascienceathome.com/)|A podcast that provides practical advice and tutorials on data science topics.
+[Data Stories](https://datastori.es/)|An interview-driven podcast that tells the stories of data scientists and how they're using their skills to make a difference in the world.
+[O'Reilly Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)|A podcast that covers a wide range of data science topics, from machine learning to artificial intelligence to big data.
+[Learning Machines 101](https://www.learningmachines101.com/) |Mathematics, statistics, and algorithms that power the machine learning systems that we rely on every day. The podcast is hosted by Richard Golden, a machine learning engineer and researcher at Google AI.
+[Data Engineering Podcast](https://www.dataengineeringpodcast.com/) |Tools, techniques, and difficulties associated with the discipline of data engineering. Databases, workflows, automation, and data manipulation.
+[Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)  |A great resource for anyone who wants to learn more about data science and the latest trends in the field. It is also a great way to get inspired by the work of other data scientists and machine learning engineers.
+[ Chai Time Data Science Show](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x) |Interviews top data scientists, practitioners, and researchers from around the world. The show is hosted by Sanyam Bhutani, a data scientist and machine learning engineer at Google AI.
+[Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)|Podcast that interviews data scientists about their journey to becoming a data scientist. The podcast is hosted by Renee Teate, a data scientist and machine learning engineer at Google AI.
+[AI Today Podcast](https://www.aidatatoday.com/aitoday/)|Explores the latest trends and developments in artificial intelligence.
+[Gradient Dissent](https://wandb.ai/fully-connected/podcast)|A weekly podcast that explores the latest research in machine learning and artificial intelligence.
+[Data Skeptic](https://dataskeptic.com/)|A podcast that challenges the conventional wisdom in data science and asks tough questions about the ethics and implications of data-driven decision making.
+[Linear Digressions](https://lineardigressions.com/)|A podcast that covers a wide range of data science topics, from the technical to the theoretical.
+[The Data Engineering Show](https://www.dataengineeringshow.com/)|For data engineering and BI practitioners to go beyond theory, and learn from the biggest influencers in tech about their practical day to day data challenges.
+[DataTalks.Club](https://podcasters.spotify.com/pod/show/datatalksclub)|A weekly online community of data enthusiasts and practitioners that learn from each other and share their knowledge and experiences through meetups, workshops, and a podcast.
+[Datacast](https://jameskle.com/writes/category/Datacast)|Top data scientists and practitioners in the data and AI infrastructure space. The podcast is hosted by James Le.
+
+</details>
 
 ***
 :pushpin:	**Data Analysis Recommendations.**<br>
