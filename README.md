@@ -447,7 +447,7 @@ Podcasts  | About
 <br>
 
 &emsp;&emsp;&emsp; **:eyes: Arabic Podcasts??**
-&emsp;&emsp;&emsp;&emsp;   *:trollface:شايفك ياللي زهقان في المواصلات* <br>
+###### &emsp;&emsp;&emsp;&emsp;   :trollface:شايفك ياللي زهقان في المواصلات
 &emsp;&emsp;&emsp;:movie_camera:[Arabic Data Podcast](https://www.youtube.com/@arabic_data_podcast) | [Spotify](https://open.spotify.com/show/6xo79RT4NP73wQA39TgAq1) by Eng. Kareem Abdelsalam<br>
 &emsp;&emsp;&emsp;:movie_camera:[lإلي البيانات وما بعدها](https://www.youtube.com/watch?v=3znPvz6P2oM&list=PL9yAM5pvSfU5EdppOCf-YvttRsabeAmbN) by Eng. Youssef Hosni<br>
 &emsp;&emsp;&emsp;:movie_camera:[Garage Education](https://www.youtube.com/@GarageEducation/playlists) by Eng. Mostafa Alaa<br>
