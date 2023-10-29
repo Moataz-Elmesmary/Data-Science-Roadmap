@@ -420,34 +420,35 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
 
 ***
-<details><summary>🎧<b>Data Science Podcasts: 🎙️</b><br> <i>The Best Way to Stay Up-to-Date on the Latest Data Science Trends and Developments</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
+🎧<b>Data Science Podcasts: 🎙️</b><br> <i>The Best Way to Stay Up-to-Date on the Latest Data Science Trends and Developments</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
 
-</summary>
-<br>
-
-Podcasts  | About      
--- | ---------------------------
-[Data Science at Home](https://datascienceathome.com/)|A podcast that provides practical advice and tutorials on data science topics.
-[Data Stories](https://datastori.es/)|An interview-driven podcast that tells the stories of data scientists and how they're using their skills to make a difference in the world.
-[O'Reilly Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)|A podcast that covers a wide range of data science topics, from machine learning to artificial intelligence to big data.
-[Learning Machines 101](https://www.learningmachines101.com/) |Mathematics, statistics, and algorithms that power the machine learning systems that we rely on every day. The podcast is hosted by Richard Golden, a machine learning engineer and researcher at Google AI.
-[Data Engineering Podcast](https://www.dataengineeringpodcast.com/) |Tools, techniques, and difficulties associated with the discipline of data engineering. Databases, workflows, automation, and data manipulation.
-[Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)  |A great resource for anyone who wants to learn more about data science and the latest trends in the field. It is also a great way to get inspired by the work of other data scientists and machine learning engineers.
-[ Chai Time Data Science Show](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x) |Interviews top data scientists, practitioners, and researchers from around the world. The show is hosted by Sanyam Bhutani, a data scientist and machine learning engineer at Google AI.
-[Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)|Podcast that interviews data scientists about their journey to becoming a data scientist. The podcast is hosted by Renee Teate, a data scientist and machine learning engineer at Google AI.
-[AI Today Podcast](https://www.aidatatoday.com/aitoday/)|Explores the latest trends and developments in artificial intelligence.
-[Gradient Dissent](https://wandb.ai/fully-connected/podcast)|A weekly podcast that explores the latest research in machine learning and artificial intelligence.
-[Data Skeptic](https://dataskeptic.com/)|A podcast that challenges the conventional wisdom in data science and asks tough questions about the ethics and implications of data-driven decision making.
-[Linear Digressions](https://lineardigressions.com/)|A podcast that covers a wide range of data science topics, from the technical to the theoretical.
-[The Data Engineering Show](https://www.dataengineeringshow.com/)|For data engineering and BI practitioners to go beyond theory, and learn from the biggest influencers in tech about their practical day to day data challenges.
-[DataTalks.Club](https://podcasters.spotify.com/pod/show/datatalksclub)|A weekly online community of data enthusiasts and practitioners that learn from each other and share their knowledge and experiences through meetups, workshops, and a podcast.
-[Datacast](https://jameskle.com/writes/category/Datacast)|Top data scientists and practitioners in the data and AI infrastructure space. The podcast is hosted by James Le.
-[How to Get an Analytics Job Podcast](https://www.youtube.com/playlist?list=PLBvzkZLydYX0D28bbnfRCV6M4zMQrhXsd)|A great resource for anyone who is interested in a career in analytics. The guests share their insights and advice on how to get started in analytics and how to succeed in an analytics career.
-[The Analytics Power Hour](https://analyticshour.io/)|Five awesome people, an occasional guest, and drinks all around tackling the hottest data and analytics topics of the day.
 
 <br>
 
-&emsp;&emsp;&emsp; **:eyes: Arabic Podcasts??**
+Podcasts  | About      | Produced by
+-- | --------------------------- | --
+[Data Science at Home](https://datascienceathome.com/)|A podcast that provides practical advice and tutorials on data science topics.|Greg Linhardt, a data scientist and machine learning engineer at Google AI
+[Data Stories](https://datastori.es/)|An interview-driven podcast that tells the stories of data scientists and how they're using their skills to make a difference in the world.| Kirill Eremenko, a data scientist and machine learning engineer at Netflix
+[O'Reilly Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)|A podcast that covers a wide range of data science topics, from machine learning to artificial intelligence to big data.|Ben Lorica, the Chief Data Scientist at O'Reilly
+[Learning Machines 101](https://www.learningmachines101.com/) |Mathematics, statistics, and algorithms that power the machine learning systems that we rely on every day.|Richard Golden, a machine learning engineer and researcher at Google AI
+[Data Engineering Podcast](https://www.dataengineeringpodcast.com/) |Tools, techniques, and difficulties associated with the discipline of data engineering. Databases, workflows, automation, and data manipulation.|Tobias Macey, a data engineer at Netflix
+[Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)  |A great resource for anyone who wants to learn more about data science and the latest trends in the field. It is also a great way to get inspired by the work of other data scientists and machine learning engineers.|Alteryx, a data science and analytics software company
+[Chai Time Data Science Show](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x) |Interviews top data scientists, practitioners, and researchers from around the world.|Sanyam Bhutani, a data scientist and machine learning engineer at Google AI.
+[Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)|Podcast that interviews data scientists about their journey to becoming a data scientist.|Renee Teate, a data scientist and machine learning engineer at Google AI.
+[AI Today Podcast](https://www.aidatatoday.com/aitoday/)|Explores the latest trends and developments in artificial intelligence.|Ron Schmelzer and Kathleen Walch
+[Gradient Dissent](https://wandb.ai/fully-connected/podcast)|A weekly podcast that explores the latest research in machine learning and artificial intelligence.|Chris Olah, a machine learning engineer at Google AI
+[Data Skeptic](https://dataskeptic.com/)|A podcast that challenges the conventional wisdom in data science and asks tough questions about the ethics and implications of data-driven decision making.|Kyle Polich, a data scientist and machine learning engineer
+[Linear Digressions](https://lineardigressions.com/)|A podcast that covers a wide range of data science topics, from the technical to the theoretical.|Ben Recht and Noah Smith, two machine learning researchers at the University of California, Berkeley
+[The Data Engineering Show](https://www.dataengineeringshow.com/)|For data engineering and BI practitioners to go beyond theory, and learn from the biggest influencers in tech about their practical day to day data challenges.|Eldad Farkash and Benjamin Wagner, who are both data engineering experts with experience at companies like Firebolt and Sisense
+[DataTalks.Club](https://podcasters.spotify.com/pod/show/datatalksclub)|A weekly online community of data enthusiasts and practitioners that learn from each other and share their knowledge and experiences through meetups, workshops, and a podcast.|A rotating cast of data experts
+[Datacast](https://jameskle.com/writes/category/Datacast)|Top data scientists and practitioners in the data and AI infrastructure space.|James Le, who is a data infrastructure expert with experience at companies like Google and Netflix
+[How to Get an Analytics Job Podcast](https://www.youtube.com/playlist?list=PLBvzkZLydYX0D28bbnfRCV6M4zMQrhXsd)|A great resource for anyone who is interested in a career in analytics. The guests share their insights and advice on how to get started in analytics and how to succeed in an analytics career.|ohn David Ariansen, an analytics agency owner and career coach
+[The Analytics Power Hour](https://analyticshour.io/)|Five awesome people, an occasional guest, and drinks all around tackling the hottest data and analytics topics of the day.|Tim Wilson, Michael Helbling, Josh Crowhurst, and Val Kroll. They are all analytics experts from different companies
+
+<br>
+
+<details><summary>&emsp;&emsp;&emsp; :eyes: Arabic Podcasts??</summary>
+
 ###### &emsp;&emsp;&emsp;&emsp;   :trollface:شايفك ياللي زهقان في المواصلات
 &emsp;&emsp;&emsp;📻[Arabic Data Podcast](https://www.youtube.com/@arabic_data_podcast) | [Spotify](https://open.spotify.com/show/6xo79RT4NP73wQA39TgAq1) by Eng. Kareem Abdelsalam<br>
 &emsp;&emsp;&emsp;📻[lإلي البيانات وما بعدها](https://www.youtube.com/watch?v=3znPvz6P2oM&list=PL9yAM5pvSfU5EdppOCf-YvttRsabeAmbN) by Eng. Youssef Hosni<br>
