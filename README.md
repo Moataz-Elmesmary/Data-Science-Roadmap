@@ -333,7 +333,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 &emsp;&emsp;&emsp;:closed_book:[Git](https://git-scm.com/book/en/v2)
 &emsp;&emsp;:movie_camera:[Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
-&emsp;&emsp;:movie_camera:[Arabic - Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
+&emsp;&emsp;:movie_camera:[Arabic - Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)
+&emsp;&emsp;:movie_camera:[Arabic 2 -youtube](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=Mi6JesmcVMu6ujEx)<br>
 
         
 ### :pushpin: **More Books ~ [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
