@@ -276,6 +276,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Stanford XCS224U Lectures - Spring 2021- YouTube](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=k91y-bepIiPjHMrj&fbclid=IwAR2h6KcYboHCjG9YBIEB08srgYSesqZ5UHXr0ni8yxOqrxNV3-_TGxq0Csg)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 &emsp;:small_orange_diamond:*LLMS [What`s Large Language Model](https://www.snowflake.com/guides/what-large-language-model-and-what-can-llms-do-data-science)?* <br>
+        &emsp;&emsp;&emsp;:video_camera: [Generative AI for Everyone (Andrew Nj) - Coursera](https://www.coursera.org/learn/generative-ai-for-everyone?utm_campaign=genai4e-launch&utm_medium=institutions&utm_source=deeplearning-ai#modules)🆕<br>
         &emsp;&emsp;&emsp;:video_camera: [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)<br>
         &emsp;&emsp;&emsp;:video_camera: [LLM Foundations](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)<br>
         &emsp;&emsp;&emsp;:video_camera: How ChatGPTs / Transformers work?[1](https://www.youtube.com/watch?v=bQ5BoolX9Ag) - [2](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) - [3](https://jalammar.github.io/illustrated-transformer/) *overview & Maths behind*<br>
