@@ -462,6 +462,7 @@ Podcasts  | About      | Produced by
 
 ***
 :pushpin:	**Data Analysis Recommendations.**<br>
+<img align="right" width="150" height="150" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/653458d5-74a4-4f75-a676-6cb714395656">
         &emsp;&emsp;&emsp; Books (:closed_book: [The Data Analysis Workshop](https://drive.google.com/file/d/1BjKsffA2SCY0jY8OIIzgQgM0ZS7E9v_v/view?fbclid=IwAR2_GBlrX7VYoo8WCRO9R2qqrYEqtytoGrObxy1QHWcQ7sRaFjRLb0GmuxM) &
         :closed_book: [Head First Data Analysis](https://drive.google.com/file/d/1HXHkwrgsSJLYSeB6I0wPUXIGGnm2-HQ6/view?fbclid=IwAR27M-dlPN6o0YuZg3bXH6_DP9L2fBhkKDEkChvO4SPG-SXfkxrzuoGP5RM))<br>
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
