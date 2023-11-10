@@ -475,9 +475,9 @@ Podcasts  | About      | Produced by
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 :pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
-<img align="right" width="150" height="150" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/aafc7a10-a8a1-4204-a9f4-9b8cefccf718">
         &emsp;&emsp;&emsp; Books (:closed_book: [Fundamentals of Data Engineering](https://drive.google.com/file/d/1CbQFN0Lw8o6v4KlF64LsCyaooMccT45T/view?usp=sharing) &
         :closed_book: [Designing Data-Intensive Applications](https://drive.google.com/file/d/1CrzA--WWNcxxQwLqzg1yPfiI3FaEo49z/view?usp=sharing))<br>
+<img align="right" width="150" height="150" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/aafc7a10-a8a1-4204-a9f4-9b8cefccf718">
         &emsp;&emsp;&emsp; Arabic Podcast, [Starting a Career in Data Engineering.](https://www.youtube.com/watch?v=OtaBhXjrbX4)<br>
         &emsp;&emsp;&emsp; For Arab, I recommend 2 YouTube Channels: ([Garage Education](https://www.youtube.com/@GarageEducation) & [Big Data بالعربي](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE))<br>
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
