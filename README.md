@@ -421,7 +421,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
 
 ***
-<img align="right" width="200" height="170" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/4f84fa93-a8ed-4342-b418-8263a3520299">
+<img align="right" width="190" height="170" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/4f84fa93-a8ed-4342-b418-8263a3520299">
 
 <details><summary>🎧<b>Data Science Podcasts: 🎙️</b><br> <i>The Best Way to Stay Up-to-Date on the Latest Data Science Trends and Developments</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px"></summary>
 
