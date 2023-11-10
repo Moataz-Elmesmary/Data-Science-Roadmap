@@ -1,4 +1,4 @@
-![photo_2022-04-20_03-18-03](https://user-images.githubusercontent.com/92026137/164127639-38317783-8c5e-4b85-acf5-3d6bd6dbf9c0.jpg)
+<img align="center" width="700" height="690" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/95f2d5a6-990b-46cf-90c1-098059a9c706">
 <h2>&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2023 </h2>
  
 ### Data Science Roadmap for anyone interested in how to break into the field!
