@@ -345,7 +345,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
   &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>65</b> Free Important Books :fire:](https://techgrabyte.com/springer-released-65-machine-learning-data-science-books-free/?fbclid=IwAR3x9Mfd4FSrBo_y2F92cAghhZ8851qv3wQ1R_u87s70MZTDtKeG5yn7Hts)<br>
         &emsp;&emsp;&emsp;:closed_book: [Mathematics for Machine Learning ](https://mml-book.github.io/)<br>
         &emsp;&emsp;&emsp;:closed_book: [An Introduction to Statistical Learning](https://www.statlearning.com/)<br>
-        &emsp;&emsp;&emsp;:closed_book: [Understanding Machine Learning: From Theory to Algorithms ](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Understanding ML: From Theory to Algorithms ](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)<br>
         &emsp;&emsp;&emsp;:closed_book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)<br>
         &emsp;&emsp;&emsp;:closed_book: [storytelling with data](https://drive.google.com/file/d/1OQu6ZWImGnHbuI_WJOLPdSvKWCABSWMH/view?usp=sharing) Important data visualization guide.<br>
         
