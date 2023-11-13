@@ -483,8 +483,9 @@ Podcasts  | About      | Produced by
 <img align="right" width="150" height="150" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/aafc7a10-a8a1-4204-a9f4-9b8cefccf718">
         &emsp;&emsp;&emsp; Arabic Podcast, [Starting a Career in Data Engineering.](https://www.youtube.com/watch?v=OtaBhXjrbX4)<br>
         &emsp;&emsp;&emsp; For Arab, I recommend 2 YouTube Channels: ([Garage Education](https://www.youtube.com/@GarageEducation) & [Big Data بالعربي](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE))<br>
-        &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
-        &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
+        &emsp;&emsp;&emsp; [Roadmap 1](https://github.com/OmarEhab007/Data_Engineering_Mentorship) - *(Recommended)*<br> 
+        &emsp;&emsp;&emsp; [Roadmap 2](https://www.educba.com/data-engineer-roadmap/)<br> 
+        &emsp;&emsp;&emsp; [Roadmap 3](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
         &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)/Hadoop, Data Modeling and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools,concepts and cloud platforms*.<br>
 ***
