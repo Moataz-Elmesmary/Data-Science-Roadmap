@@ -400,7 +400,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 21. [Machine Learning Cheat Sheets (Recommended Guide)](https://drive.google.com/file/d/1rQRJvWk5s9rUCesri0apxutbF4eDHR69/view?usp=sharing) *راجع المواضيع اللي في الشيت دي يا عزيزي وشوف اللي ناقصك* </details> 
 ***
 
-### The best way to practice is to take part in competitions. :trophy::trophy: <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px"><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px">	<br>
+### The best way to practice is to take part in competitions. <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px"><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px">	<br>
 **Competitions will make you even more proficient in Data Science.**<br>
 When we talk about top data science competitions, [**Kaggle**](https://www.kaggle.com/) is one of the most popular platforms for data science. Kaggle has a lot of competitions where you can participate according to your knowledge level.<br>
 
