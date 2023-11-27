@@ -330,8 +330,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 &emsp;&emsp;&emsp;:computer:[12 free Data Science projects to practice Python and Pandas (resolve interactive online)](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)<br>
 
 ***
-<img align="right" width="158" height="85" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/38a970a5-e723-4831-bc35-153c228beebf">
 <h3>:pushpin: Common Tools :arrow_heading_down:</h3><br>
+<img align="right" width="158" height="85" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/38a970a5-e723-4831-bc35-153c228beebf">
 
 English | Arabic | Book
 --- | --- | ---
@@ -339,17 +339,17 @@ English | Arabic | Book
 📖 [w3schools](https://www.w3schools.com/git/) | :movie_camera: [almadrasa](https://almdrasa.com/tracks/programming-foundations/courses/git-github/)
 &emsp; | :movie_camera: [Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) 
 
-        
+***       
 ### :pushpin: **More Books ~ [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
  &emsp;&emsp;:atom::atom::atom::atom::atom:<br>
 <img align="right" width="309" height="250" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/b41c09b2-47c4-4ee3-b932-eb14b1c243bf">
 
-  &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>65</b> Free Important Books :fire:](https://techgrabyte.com/springer-released-65-machine-learning-data-science-books-free/?fbclid=IwAR3x9Mfd4FSrBo_y2F92cAghhZ8851qv3wQ1R_u87s70MZTDtKeG5yn7Hts)<br>
+  &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>12</b> Free Important Books :fire:](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/tree/main/Books)<br>
         &emsp;&emsp;&emsp;:closed_book: [Mathematics for Machine Learning ](https://mml-book.github.io/)<br>
         &emsp;&emsp;&emsp;:closed_book: [An Introduction to Statistical Learning](https://www.statlearning.com/)<br>
         &emsp;&emsp;&emsp;:closed_book: [Understanding ML: From Theory to Algorithms ](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)<br>
         &emsp;&emsp;&emsp;:closed_book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)<br>
-        &emsp;&emsp;&emsp;:closed_book: [storytelling with data](https://drive.google.com/file/d/1OQu6ZWImGnHbuI_WJOLPdSvKWCABSWMH/view?usp=sharing) Important data visualization guide.<br>
+        &emsp;&emsp;&emsp;:closed_book: [storytelling with data](https://drive.google.com/file/d/1OQu6ZWImGnHbuI_WJOLPdSvKWCABSWMH/view?usp=sharing) ✔️Important data visualization guide.<br>
         
 ***
 <details>
