@@ -190,6 +190,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📹 [Coursera Andrew`s new ML Specialization (Python)](https://www.coursera.org/specializations/machine-learning-introduction?_hsenc=p2ANqtz-_R9x3Nm07uCw6YAw9VpCpdjRdfaUFyxdOcvgDljRt7j_NXiahN1plnI_Ob9jn0jSNipuE_Y08llrfPSt_1P7EBvj4LuImpBTKG3bsR6Z9bzjzBoRY&_hsmi=216611333&action=enroll&utm_campaign=mls-launch-2022&utm_content=216613012&utm_medium=email&utm_source=hs_email#courses)<br>
          &emsp;&emsp;&emsp;📹 [Machine Learning - StatQuest - YouTube](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)<br>
          &emsp;&emsp;&emsp;📹 [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
+         &emsp;&emsp;&emsp;📹 [Machine Learning Roadmap 2024](https://www.scaler.com/blog/machine-learning-roadmap/)<br>
          &emsp;&emsp;&emsp;📹 [CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)<br>
          &emsp;&emsp;&emsp;📹 [SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT)<br>
          &emsp;&emsp;&emsp;📹 [Machine Learning for Engineers 2022](https://apmonitor.com/pds/) / ([YouTube](https://www.youtube.com/watch?v=Gh5rbBLh4JY&list=PLLBUgWXdTBDg1K1bu60lHypSzSP-WSBmx))<br>
@@ -488,6 +489,7 @@ Podcasts  | About      | Produced by
          [Roadmap 1](https://github.com/OmarEhab007/Data_Engineering_Mentorship) - *(Recommended)*<br> 
          [Roadmap 2](https://www.educba.com/data-engineer-roadmap/)<br> 
          [Roadmap 3](https://github.com/datastacktv/data-engineer-roadmap)<br>
+         [Roadmap 4](https://www.scaler.com/blog/data-engineer-roadmap/)<br>
          [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
         *Note: A good knowledge & projects in SQL, Python, Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)/Hadoop, Data Modeling and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools,concepts and cloud platforms*.<br>
 ***
