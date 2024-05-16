@@ -302,6 +302,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;🔗 [MLOps-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)<br>
         &emsp;&emsp;&emsp;🔗 [MLOps-guide](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md)<br>
         &emsp;&emsp;&emsp;📕 [Practical MLOps](https://drive.google.com/file/d/17RhXQ2ix6rFMaas3HI7bnM_GL8lS7u3f/view?usp=sharing)<br>
+        &emsp;&emsp;&emsp;📕 [MLOps Roadmap](https://www.scaler.com/blog/mlops-roadmap/)<br>
 **10. Probabilistic Graphical Models**    
         &emsp;&emsp;&emsp;📹 [Specialization - Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
         &emsp;&emsp;&emsp;📹 [Spring 2016, University of Utah - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)<br>
@@ -488,6 +489,7 @@ Podcasts  | About      | Produced by
          [Roadmap 1](https://github.com/OmarEhab007/Data_Engineering_Mentorship) - *(Recommended)*<br> 
          [Roadmap 2](https://www.educba.com/data-engineer-roadmap/)<br> 
          [Roadmap 3](https://github.com/datastacktv/data-engineer-roadmap)<br>
+         [Roadmap 4](https://www.scaler.com/blog/mlops-roadmap/)<br>
          [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
         *Note: A good knowledge & projects in SQL, Python, Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)/Hadoop, Data Modeling and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools,concepts and cloud platforms*.<br>
 ***
