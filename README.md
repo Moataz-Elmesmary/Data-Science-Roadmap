@@ -19,7 +19,7 @@
 
 | :small_orange_diamond:	**Data Science**        | :small_orange_diamond:	**Data Analytics**           | :small_orange_diamond:	**Data Engineering**           |
 | ------------- | --------------------- | -------------------- |
-|<h5>Is a multidisciplinary field that focuses on looking at raw and structured data sets and providing potential actionable insights. The field of Data Science looks at ensuring we are asking the right questions as opposed to finding exact answers.  Data Scientist require skillsets that are centered on Computer Science, Mathematics, and Statistics.  Data Scientist use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling.  The tools Data Scientist use to apply these techniques include Python and R.      </h5>|<h5> Focuses on looking at existing data sets and creating solutions to capture data, process data, and finally organize data to draw actionable insights. This field looks at finding general process, business, and engineering improvements we can make based on questions we don't know the answers to.  Data Analytics require skillsets that are centered on Statistics, Mathematics, and high level understanding of Computer Science. It involves data cleaning, data visualization, and simple modeling.  Common Data Analytic tools used include Microsoft Power Bi, Tableau, and SQL.  </h5>|<h5> Focuses on creating the correct infrastructure and tools required to support the business.  Data Engineers look at what are the optimal ways to store and extract data and involves writing scripts and building data warehouses.  Data Engineering require skillsets that are centered on Software Engineering, Computer Science and high level Data Science.  The tools Data Engineers utilize are mainly Python, Java, Scala, Hadoop, and Spark. </h5>|
+|<h5>Is a multidisciplinary field that focuses on looking at raw and structured data sets and providing potentially actionable insights. The field of Data Science looks at ensuring we are asking the right questions as opposed to finding exact answers. Data Scientists require skillsets that are centered on Computer Science, Mathematics, and Statistics. Data Scientists use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools Data Scientists use to apply these techniques include Python and R.      </h5>|<h5> Focuses on looking at existing data sets and creating solutions to capture data, process data, and finally organize data to draw actionable insights. This field looks at finding general process, business, and engineering improvements we can make based on questions we don't know the answers to.  Data Analytics requires skillsets that are centered on Statistics, Mathematics, and high level understanding of Computer Science. It involves data cleaning, data visualization, and simple modeling.  Common Data Analytic tools used include Microsoft Power Bi, Tableau, and SQL.  </h5>|<h5> Focuses on creating the correct infrastructure and tools required to support the business.  Data Engineers look at what are the optimal ways to store and extract data and involves writing scripts and building data warehouses.  Data Engineering requires skillsets that are centered on Software Engineering, Computer Science and high level Data Science.  The tools Data Engineers utilize are mainly Python, Java, Scala, Hadoop, and Spark. </h5>|
 
 # Prepare your workspace
 <details><summary> <h3>Tip :one:	: Pick one and stick to it. (:file_folder:Click)</h3>
@@ -93,6 +93,8 @@ more interesting bits.</i><br>
         &emsp;&emsp;&emsp;📹 [Python Full Course - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)<br>
         &emsp;&emsp;&emsp;📕 [Intro to Python for CS and Data Science](https://drive.google.com/file/d/1rXkYFjw1iKbXCra_B4Ykm0AMRgo6v93w/view?fbclid=IwAR2lg9omGaAsG3g1ZhHQHja8_uxkZ7QddnOUSxfoceRXShU1V_bl4V63xCQ)<br>
         &emsp;&emsp;&emsp;[more in OOP](https://www.futurelearn.com/courses/object-oriented-principles)<br>
+        &emsp;&emsp;&emsp;[Python Official Tutorial](https://docs.python.org/3/tutorial/index.html)<br>
+
 **4. Pandas**<br>
         &emsp;&emsp;&emsp;📹 [Corey Schafer-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
         &emsp;&emsp;&emsp;📕 [Kaggle](https://www.kaggle.com/learn/pandas)<br>
@@ -105,6 +107,8 @@ more interesting bits.</i><br>
         &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
         &emsp;&emsp;&emsp;📕 [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
+        &emsp;&emsp;&emsp;📕 [Official Mumpy Tutorial](https://numpy.org/doc/stable/user/quickstart.html)<br>
+        
 **6. Scipy**<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy)<br>
         &emsp;&emsp;&emsp;📕 [Docs](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)<br>
@@ -163,14 +167,14 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📕 [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;📹 Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
   
-<h4><i>At The end of Beginner phase apply all what you've learned on a project.</i></h4>
+<h4><i>At The end of the Beginner phase apply all that you've learned on a project.</i></h4>
 
 ***
 
 
 ## 🔰 Intermediate 🔰
 
-**1. Math for ML**: consists of Linear Algebra, Calculus and PCA. <br>
+**1. Math for ML**: consists of Linear Algebra, Calculus, and PCA. <br>
 📹 [Mathematics for Machine Learning and Data Science - Andrew Ng](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAUtSWUJXKyTY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3117765&utm_content=b2c#courses)<br>
 📹 [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>
 📹 [Mathematics for Machine Learning - Most of the needed basics](https://www.youtube.com/watch?v=vLJcduC4lBM&list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)<br><br>
@@ -223,7 +227,7 @@ APIs <br>
          &emsp;&emsp;&emsp;📕 [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
          &emsp;&emsp;&emsp;📕 [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
          &emsp;&emsp;&emsp;📕 [Book](https://drive.google.com/file/d/1BkJYO0tqMYptTWUDQ7X0vd2aygohHRm8/view?usp=sharing)<br>
-**8. interpet Shapley-based explanations of ML models.**<br/>
+**8. interpret Shapley-based explanations of ML models.**<br/>
         &emsp;&emsp;&emsp;📕 [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
         &emsp;&emsp;&emsp;📕 [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4>
@@ -266,7 +270,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;📹 [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)<br>
 &emsp;☠️*ML based Computer Vision | Lecs (YouTube)* <br>
         &emsp;&emsp;&emsp;📹 [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)<br>
-        &emsp;&emsp;&emsp;📹 [NOC:Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108105103)<br>
+        &emsp;&emsp;&emsp;📹 [NOC: Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108105103)<br>
         &emsp;&emsp;&emsp;📹 [Deep Learning for Computer Vision - Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)<br>
 
 **5. NLP** <br>
@@ -298,10 +302,11 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;📹 [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
         &emsp;&emsp;&emsp;if you`re interested in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
         
-**9. MLOps** : is a combination of Model Deployment, Model Serving, Model Monitoring, and Model Maintenance.       
+**9. MLOps**: is a combination of Model Deployment, Model Serving, Model Monitoring, and Model Maintenance.       
         &emsp;&emsp;&emsp;🔗 [MLOps-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)<br>
         &emsp;&emsp;&emsp;🔗 [MLOps-guide](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md)<br>
         &emsp;&emsp;&emsp;📕 [Practical MLOps](https://drive.google.com/file/d/17RhXQ2ix6rFMaas3HI7bnM_GL8lS7u3f/view?usp=sharing)<br>
+        &emsp;&emsp;&emsp;📕 [MLOps Roadmap](https://www.scaler.com/blog/mlops-roadmap/)<br>
 **10. Probabilistic Graphical Models**    
         &emsp;&emsp;&emsp;📹 [Specialization - Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
         &emsp;&emsp;&emsp;📹 [Spring 2016, University of Utah - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)<br>
@@ -488,8 +493,9 @@ Podcasts  | About      | Produced by
          [Roadmap 1](https://github.com/OmarEhab007/Data_Engineering_Mentorship) - *(Recommended)*<br> 
          [Roadmap 2](https://www.educba.com/data-engineer-roadmap/)<br> 
          [Roadmap 3](https://github.com/datastacktv/data-engineer-roadmap)<br>
+         [Roadmap 4](https://www.scaler.com/blog/data-engineer-roadmap/)<br>
          [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
-        *Note: A good knowledge & projects in SQL, Python, Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)/Hadoop, Data Modeling and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools,concepts and cloud platforms*.<br>
+        *Note: A good knowledge & projects in SQL, Python, Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)/Hadoop, Data Modeling and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools, concepts, and cloud platforms*.<br>
 ***
 <details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
