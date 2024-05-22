@@ -488,6 +488,7 @@ Podcasts  | About      | Produced by
          [Roadmap 1](https://github.com/OmarEhab007/Data_Engineering_Mentorship) - *(Recommended)*<br> 
          [Roadmap 2](https://www.educba.com/data-engineer-roadmap/)<br> 
          [Roadmap 3](https://github.com/datastacktv/data-engineer-roadmap)<br>
+         [Roadmap 4](https://www.scaler.com/blog/data-engineer-roadmap/)<br>
          [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
         *Note: A good knowledge & projects in SQL, Python, Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)/Hadoop, Data Modeling and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools,concepts and cloud platforms*.<br>
 ***
