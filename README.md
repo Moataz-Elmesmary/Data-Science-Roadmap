@@ -150,7 +150,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📹 [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM (SQL for Data Science)](https://www.coursera.org/learn/sql-data-science)<br>
          &emsp;&emsp;&emsp;📹 [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
          &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)<br>
-         &emsp;&emsp;&emsp;📹 [Arabic -ITI by Eng.Ramy](https://www.youtube.com/watch?v=QJHy89zMvj8&list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA&index=1) *Advanced* - [[Course Materials]](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)<br>
+         &emsp;&emsp;&emsp;📹 [Arabic -ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - [[Course Materials]](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)<br>
          &emsp;&emsp;&emsp;📹 [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
          &emsp;&emsp;&emsp;📝 Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
 
