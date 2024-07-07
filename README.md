@@ -163,7 +163,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📕 [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;📹 Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
   
-<h4><i>At The end of Beginner phase apply all what you've learned on a project.</i></h4>
+<h4><i>At The end of the Beginner phase apply what you've learned on a project.</i></h4>
 
 ***
 
@@ -223,7 +223,7 @@ APIs <br>
          &emsp;&emsp;&emsp;📕 [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
          &emsp;&emsp;&emsp;📕 [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
          &emsp;&emsp;&emsp;📕 [Book](https://drive.google.com/file/d/1BkJYO0tqMYptTWUDQ7X0vd2aygohHRm8/view?usp=sharing)<br>
-**8. interpet Shapley-based explanations of ML models.**<br/>
+**8. interpret Shapley-based explanations of ML models.**<br/>
         &emsp;&emsp;&emsp;📕 [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
         &emsp;&emsp;&emsp;📕 [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4>
