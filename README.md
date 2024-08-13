@@ -154,6 +154,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📹 Arabic - [ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - *[[Notes]](https://relic-dimple-eee.notion.site/SQL-c11692abdd894c89ab73d82545db0e63?pvs=4)📋*- [[Course Materials]](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)<br>
          &emsp;&emsp;&emsp;📹 Arabic - [SQL for Data Analysis](https://www.youtube.com/watch?v=kb-_GbpH3sQ&t=38s) by Ahmed Sami<br>
          &emsp;&emsp;&emsp;📹 [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
+         &emsp;&emsp;&emsp;📹 [CMU Intro to DB - Fall 2022](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - *<[Schedule📅](https://15445.courses.cs.cmu.edu/fall2022/schedule.html)>* - [Book📕](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Abraham%20Silberschatz%2C%20Henry%20Korth%20and%20S.%20Sudarshan%20-%20Database%20System%20Concepts.%207-McGraw-Hill%20Education%20(2020).pdf)<br>
          &emsp;&emsp;&emsp;📝 Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
 
 **12. Python Regular Expression**<br>
