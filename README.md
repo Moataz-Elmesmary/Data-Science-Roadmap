@@ -76,6 +76,7 @@ more interesting bits.</i><br>
 **2. Probability**<br>
 &emsp;&emsp;&emsp;📹 [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
 &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
+&emsp;&emsp;&emsp;📹 [Probability and Statistics for AI and DS - Arabic (Dr.Hatem Elattar)](https://www.youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7)<br>
 &emsp;&emsp;&emsp;📕 [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)<br>
 
 **3. Programming Languages**<br>
