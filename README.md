@@ -139,6 +139,7 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;📹 [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
         &emsp;&emsp;&emsp;📹 [Arabic - Youtube (Zanoon)](https://www.youtube.com/watch?v=P_Nr0FMyn9w&list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63&index=1)<br>
         &emsp;&emsp;&emsp;📹 [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
+        &emsp;&emsp;&emsp;📹 [Guy in a Cube - Youtube](https://www.youtube.com/@GuyInACube/featured)<br>
  &emsp;*Tableau* <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/><br>
         &emsp;&emsp;&emsp;📕 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
         &emsp;&emsp;&emsp;📹 [docs](https://www.tableau.com/learn/training/20201)<br>
