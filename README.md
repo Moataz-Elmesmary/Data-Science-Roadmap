@@ -159,9 +159,24 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📕 [SQL for Data Analysis](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/SQL%20for%20Data%20Analysis.pdf)<br>
          &emsp;&emsp;&emsp;📝 Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
 
-**12. Python Regular Expression**<br>
+**12. DWH** : *A system used for reporting - A core component of business intelligence.*<br>
+&emsp;&emsp;&emsp;&emsp; *Mostly used by Data Engineers.*<br>
+         &emsp;&emsp;&emsp;📕 [The Data Warehouse Toolkit](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/The-Data-Warehouse-Toolkit-3rd-Edition.pdf)<br>
+         &emsp;&emsp;&emsp;📹 [Data Warehousing Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX)<br>
+         &emsp;&emsp;&emsp;📹 [Garage Education](https://www.youtube.com/playlist?list=PLxNoJq6k39G_Ffv8Na1oRbob0sVHfFc_T) (Ar)<br>
+         &emsp;&emsp;&emsp;📹 [Implementing Data Warehouse in Arabic](https://www.youtube.com/playlist?list=PL1565idytjOTwGN63vZK7lNK6pVXpGo3s) (Ar)<br>
+         &emsp;&emsp;&emsp;📹 [More in Arabic?](https://www.youtube.com/playlist?list=PLx5yn1EeCC_6ampJnoF2hHnHMj_-EGkU4) (Ar)<br>
+         &emsp;&emsp;&emsp;📹 [Data Warehouse - University of Colorado](https://www.coursera.org/learn/dwdesign)<br>
+         &emsp;&emsp;&emsp;📹 **[SSIS]** [SQL Server Integration Services](https://www.youtube.com/playlist?list=PLgOQg5m1pmp84jmXHGNWWYuU3m4bNCmfs) (Ar)<br>
+         &emsp;&emsp;&emsp;📹 [Project - Building Sales Data Mart Using SSIS](https://www.youtube.com/playlist?list=PLcAbhg_RWLaLUaYpAAvOLu2hlyVgZlRjb) (Ar)<br>
+         &emsp;&emsp;&emsp;📹 [Project - Building DWH Step by Step](https://www.youtube.com/playlist?list=PLcAbhg_RWLaLUaYpAAvOLu2hlyVgZlRjb)<br>
+         &emsp;&emsp;&emsp;📹 [Project - Create DWH Fact and Dimensions](https://www.youtube.com/watch?v=8TSUoolAk2I) (Ar)<br>
+         &emsp;&emsp;&emsp;📹 [Implement SCD in SSIS](https://www.youtube.com/watch?v=7uj463csru0) *Continue the playlist*<br>
+         &emsp;&emsp;&emsp;📹 [CDC in SSIS tutorial](https://www.youtube.com/watch?v=QVF1JGFFt8w)<br>
+
+**13. Python Regular Expression**<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
-**13. Time Series Analysis**<br>
+**14. Time Series Analysis**<br>
          &emsp;&emsp;&emsp;📹 [Track - DataCamp](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
          &emsp;&emsp;&emsp;📹 [Course - Coursera](https://www.coursera.org/learn/practical-time-series-analysis)<br>
          &emsp;&emsp;&emsp;📕 [Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
