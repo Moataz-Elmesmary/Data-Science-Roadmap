@@ -309,7 +309,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 
 **6. Inferential Statistics** <br>
-<img align="right" width="158" height="200" src="https://github.com/user-attachments/assets/b3f66980-191e-45c4-aecb-b5c5174c8ecd">
+<img align="right" width="158" height="200" src="https://github.com/user-attachments/assets/924bb6b4-b855-491d-ab80-3b9ce7d28669">
         &emsp;&emsp;&emsp;📹 [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
         &emsp;&emsp;&emsp;📹 [course](https://www.coursera.org/learn/statistical-inferences)<br>
 **7. Bayesian Statistics**<br>
