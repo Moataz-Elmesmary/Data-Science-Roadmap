@@ -367,7 +367,7 @@ English | Arabic | Book
 
 ***       
 ### :pushpin: **More Books :atom::atom: [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
-<img align="right" width="309" height="250" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/b41c09b2-47c4-4ee3-b932-eb14b1c243bf">
+<img align="right" width="250" height="197" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/b41c09b2-47c4-4ee3-b932-eb14b1c243bf">
 
   &emsp;&emsp;📕 [:fire:	<b>12</b> Free Important Books :fire:](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/tree/main/Books)<br>
         &emsp;&emsp;📕 [Mathematics for Machine Learning ](https://mml-book.github.io/)<br>
