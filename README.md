@@ -132,8 +132,9 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;📹 [DataCamp-EDA in Python](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python) <br>
         &emsp;&emsp;&emsp;📹 [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 
-**10. Dashboards**<br>
 <img align="right" width="290" height="203" src="https://github.com/user-attachments/assets/6b55d5e6-1253-417e-8e24-f29e95acb949">
+
+**10. Dashboards**<br>
 
 &emsp;*Power BI*<br>
         &emsp;&emsp;&emsp;📹 [Power BI - Youtube (Alex)](https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&si=pR4VSrR1P2O-AaBJ)<br>
