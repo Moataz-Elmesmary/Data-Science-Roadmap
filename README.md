@@ -104,6 +104,7 @@ more interesting bits.</i><br>
         &emsp;&emsp;&emsp;📹 PandasAI🐼[1](https://www.youtube.com/watch?v=BtmMNZLxbuI) - [2](https://www.youtube.com/watch?v=5w6eZaoDVVk) *Enhances the capabilities of Pandas by integrating Generative AI functionalities into it.* <br>
 **5. Numpy**<br>
         &emsp;&emsp;&emsp;📕 [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) &emsp;<img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/><br>
+        &emsp;&emsp;&emsp;📹 [NumPy Tutorial by Keith Galli - YouTube](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
         &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
         &emsp;&emsp;&emsp;📕 [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
