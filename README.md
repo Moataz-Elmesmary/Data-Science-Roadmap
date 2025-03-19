@@ -48,7 +48,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 #### &emsp; 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
 #### &emsp; 3. Advanced: where we learn more advanced Math, DL and Deployment.
 
-:bell: For Data Camp courses, github student pack gives 3 free months. Google how to get it.<br> <i>if you already used it, do not hesitate to contact us to have an account with free access.:hibiscus:</i>
+:bell: For Data Camp courses, github student pack gives 3 free months. Google how to get it.<br> <i>if you already used it, do not hesitate to contact us to have an account with free access. :hibiscus:</i>
   
 
 ## Legend
