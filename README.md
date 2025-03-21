@@ -69,7 +69,7 @@ more interesting bits.</i><br>
 &emsp;&emsp;&emsp;📹 [Statistics Fundamentals - StatQuest - Youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;📕 [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
 &emsp;&emsp;&emsp;📕 Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
-&emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
+&emsp;&emsp;&emsp;📹 Arabic Courses [1](https://www.youtube.com/watch?v=_Lg1QtwZHvk&list=PLO3fADoO5fwNTr4Zjmz-cacmMh1S0o4Ml&index=1) - [2](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
 &emsp;&emsp;&emsp;📹 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)++<br>
 &emsp;&emsp;&emsp;📕 [Practical Statistics for Data Scientists](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Practical%20Statistics%20for%20Data%20Scientists.pdf)<br>
 
