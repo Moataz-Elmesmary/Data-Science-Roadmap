@@ -181,6 +181,9 @@ Note: it's already mentioned in the above probability course <br>
 
 **13. Python Regular Expression**<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
+        &emsp;&emsp;&emsp;📹 [Regular Expressions by Corey - YouTube](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)<br>
+        &emsp;&emsp;&emsp;📹 [Arabic Course - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) *starting from the 95th video.* <br>
+
 **14. Time Series Analysis**<br>
          &emsp;&emsp;&emsp;📹 [Track - DataCamp](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
          &emsp;&emsp;&emsp;📹 [Course - Coursera](https://www.coursera.org/learn/practical-time-series-analysis)<br>
