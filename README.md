@@ -448,6 +448,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 
         
 ***
+<p align="center"> :pushpin: <b>Interview Preparation </b> :pushpin: </p>
+
 <b> 📓 Data Science Interview Questions: </b> :arrow_forward:
 &emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
 &emsp;- [(2)](https://github.com/alexeygrigorev/data-science-interviews)
@@ -455,7 +457,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;- [(4)](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 &emsp;- [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
 &emsp;- [(6) Arabic Podcast](https://www.youtube.com/watch?v=YjloQOreudk):headphones:<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:<br>	
+<b> 🚀 Practical Interview Questions from Actual Companies:</b> [Data Analysis](https://prepare.sh/interviews/data-analysis) & [Data Engineering](https://prepare.sh/interviews/data-engineering) by <i>@Prepare.sh</i>.
 
 ***
 <img align="right" width="190" height="145" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/251a2659-c71e-4051-b431-2e93f8ce4187">
