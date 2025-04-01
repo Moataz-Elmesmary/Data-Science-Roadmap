@@ -448,7 +448,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 
         
 ***
-<p align="center"> :pushpin: <b>Interview Preparation </b> :pushpin: </p>
+<p align="center"><strong> Interview Preparation: Your Roadmap to Success 🚀 </strong></p>
 
 <b> 📓 Data Science Interview Questions: </b> :arrow_forward:
 &emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
