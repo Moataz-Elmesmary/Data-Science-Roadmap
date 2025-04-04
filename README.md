@@ -146,10 +146,11 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;📹 [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
         &emsp;&emsp;&emsp;📹 [Guy in a Cube - Youtube](https://www.youtube.com/@GuyInACube/featured)<br>
  &emsp;*Tableau* <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/><br>
+        &emsp;&emsp;&emsp;📹 [Data With Baraa - Youtube](https://www.youtube.com/watch?v=_TT1D3tH1_c&list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v)<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-        &emsp;&emsp;&emsp;📹 [docs](https://www.tableau.com/learn/training/20201)<br>
-        &emsp;&emsp;&emsp;📹 [course - datacamp](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
-        &emsp;&emsp;&emsp;📹 [Simplilearn - Youtube](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+        &emsp;&emsp;&emsp;📹 [Tableau Training](https://www.tableau.com/learn/training/20201)<br>
+        &emsp;&emsp;&emsp;📹 [Course - DataCamp](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+        &emsp;&emsp;&emsp;📹 [Simplilearn - Youtube](https://www.youtube.com/watch?v=SSq5NwsUNGI&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC)<br>
 
 
 **11. SQL and DB**<br>
@@ -159,7 +160,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📹 Arabic Course ([Theoritical](https://www.youtube.com/playlist?list=PL37D52B7714788190) - [Practical](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)) Eldesouki<br>
          &emsp;&emsp;&emsp;📹 Arabic - [ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - *[[Notes]](https://drive.google.com/file/d/1m0p7yXo53POmfcIS1DlPOwDGvpVYAG8R/view?usp=sharing)📋*- [[Full Materials]](https://whispering-narcissus-931.notion.site/ITI-Database-Course-By_Amr-112de9a262fa80a8bff9ed9233477068)<br>
          &emsp;&emsp;&emsp;📹 Arabic - [SQL for Data Analysis](https://www.youtube.com/watch?v=kb-_GbpH3sQ&t=38s) by Ahmed Sami<br>
-         &emsp;&emsp;&emsp;📹 [Data With Baraa - YouTube - 2025](https://www.youtube.com/@DataWithBaraa/playlists)<br>
+         &emsp;&emsp;&emsp;📹 [Data With Baraa - YouTube](https://www.youtube.com/@DataWithBaraa/playlists) - [Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)<br>
          &emsp;&emsp;&emsp;📹 [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
          &emsp;&emsp;&emsp;📹 [CMU Intro to DB - Fall 2022](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - *<[Schedule📅](https://15445.courses.cs.cmu.edu/fall2022/schedule.html)>* - [Book📕](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Abraham%20Silberschatz%2C%20Henry%20Korth%20and%20S.%20Sudarshan%20-%20Database%20System%20Concepts.%207-McGraw-Hill%20Education%20(2020).pdf)<br>
          &emsp;&emsp;&emsp;📕 [SQL for Data Analysis](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/SQL%20for%20Data%20Analysis.pdf)<br>
