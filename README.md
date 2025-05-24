@@ -164,7 +164,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📹 [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
          &emsp;&emsp;&emsp;📹 [CMU Intro to DB - Fall 2022](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - *<[Schedule📅](https://15445.courses.cs.cmu.edu/fall2022/schedule.html)>* - [Book📕](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Abraham%20Silberschatz%2C%20Henry%20Korth%20and%20S.%20Sudarshan%20-%20Database%20System%20Concepts.%207-McGraw-Hill%20Education%20(2020).pdf)<br>
          &emsp;&emsp;&emsp;📕 [SQL for Data Analysis](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/SQL%20for%20Data%20Analysis.pdf)<br>
-         &emsp;&emsp;&emsp;📝 Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
+         &emsp;&emsp;&emsp;📝 Practice [InterviewMaster](https://www.interviewmaster.ai/) & [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
 
 **12. DWH** : *A system used for reporting - A core component of business intelligence.*<br>
 &emsp;&emsp;&emsp;&emsp; *Mostly used by Data Engineers.*<br>
