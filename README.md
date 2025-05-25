@@ -158,7 +158,7 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📹 [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM (SQL for Data Science)](https://www.coursera.org/learn/sql-data-science)<br>
          &emsp;&emsp;&emsp;📹 [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
          &emsp;&emsp;&emsp;📹 Arabic Course ([Theoritical](https://www.youtube.com/playlist?list=PL37D52B7714788190) - [Practical](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)) Eldesouki<br>
-         &emsp;&emsp;&emsp;📹 Arabic - [ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - (*[Labs Answers + Notes + Full Materials](https://github.com/Moataz-Elmesmary/ITI-SQL-Labs))*<br>
+         &emsp;&emsp;&emsp;📹 Arabic - [ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - *([Labs Answers + Notes + Full Materials](https://github.com/Moataz-Elmesmary/ITI-SQL-Labs))*<br>
          &emsp;&emsp;&emsp;📹 Arabic - [SQL for Data Analysis](https://www.youtube.com/watch?v=kb-_GbpH3sQ&t=38s) by Ahmed Sami<br>
          &emsp;&emsp;&emsp;📹 [Data With Baraa - YouTube](https://www.youtube.com/@DataWithBaraa/playlists) - [[Materials]](https://datawithbaraa.substack.com/p/access-to-course-materials)<br>
          &emsp;&emsp;&emsp;📹 [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
