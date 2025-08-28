@@ -512,6 +512,7 @@ Podcasts  | About      | Produced by
          [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
          [Google Advanced Data Analytics Professional Certificate :new:](https://www.coursera.org/professional-certificates/google-advanced-data-analytics?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAQlBwwJ21EwA0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)<br>
          [Alex The Analyst - YouTube📺](https://www.youtube.com/@AlexTheAnalyst/playlists)<br>
+         [Arabic - ITI - BI Dev Track](https://github.com/Moataz-Elmesmary/ITI-Business-Intelligence-Development)<br>
         *Note: A good knowledge & projects in just [Excel](https://www.coursera.org/learn/excel-basics-data-analysis-ibm), SQL & Power BI / Tableau can bring you great opportunities*.<br>
         &emsp;&emsp;-<img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> Excel More Resources: ([Arabic 1📹](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Arabic 2📹](https://www.youtube.com/watch?v=uRs8_EJqTFo&list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&pp=iAQB) - [Books :page_facing_up: and cheat sheets for revising](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
 <p align="center">
@@ -557,3 +558,4 @@ Podcasts  | About      | Produced by
 <a href="https://twitter.com/MoatazElmesmary" title="twitter"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2F%3Flabel%3Dtwitter%26style%3Dsocial"/></a>
 <a href="https://www.linkedin.com/in/MoatazElmesmary/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a><h1 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Show+Some+❤️;By+Starring+This+Repo⭐️;I+Keep+It+Up-To-Date;لاڤ+يو+أول)](https://git.io/typing-svg)</h1>
+
