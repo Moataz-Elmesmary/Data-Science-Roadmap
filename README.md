@@ -542,6 +542,7 @@ Podcasts  | About      | Produced by
 - After you have made your beta-version resume, check those [reviews from Mostafa Nageeb](https://www.facebook.com/story.php?story_fbid=2928705840553931&id=445112032246670)<br>
 - [After Graduation by Yasser Alaa](https://www.linkedin.com/feed/update/urn:li:activity:6964595411839799296/)<br>
 - [How to make Data Science Resume](https://enhancv.com/resume-examples/data-scientist/)<br>
+- [ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker; State of ATS 2026 (738 employers, Workday 37.9%)<br>
 - [Data Science Resume Guide](https://www.beamjobs.com/resumes/data-science-resume-example-guide)<br>
 - Resume/CV building for Data Jobs (Arabic)<br>
 &emsp;&emsp;📹[Video 1](https://www.youtube.com/watch?v=R0hsJiNxdDE)<br>
